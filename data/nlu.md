@@ -1,0 +1,700 @@
+## intent:advisory
+- chị có thể tư vấn cho em được không ạ
+- chị tư vấn cho em với được không ạ?
+- có thể tư vấn thêm cho em được không ạ
+- anh tư vấn cho em với ạ
+- em muốn được tư vấn ạ
+- tư vấn thêm cho em với ạ
+- em muốn nghe tư vấn ạ
+- bot có thể tư vấn giúp mình được không?
+- dạ tư vấn giúp em với ạ
+- em cần được tư vấn ạ
+- cần được tư vấn ạ
+- tư vấn cho mình với nhé
+- mình cần hỏi một vài thông tin
+- tôi cần được tư vấn, bạn có thể giúp tôi không
+- bạn có thể tư vấn giúp tôi không?
+- mình cần hỏi đáp một vài thông tin ạ
+- em cần tư vấn một số thứ, giúp em với.
+- em đang thắc mắc vài chỗ ạ?
+- Chị làm ơn tư vấn kĩ hơn cho em với ạ.
+- Cần được tư vấn kĩ hơn ạ.
+- Mong chị tư vấn cho em ạ.
+- ê mày tao cần hỏi đáp vài thứ 
+- tôi cần giải đáp một vài câu hỏi 
+- ê tao có câu hỏi muốn hỏi mày 
+- hỏi vài câu với mày ơi 
+- có vài thắc mắc cần tư vấn 
+- tư vấn giúp mình với được không bot ơi 
+- tư vấn 
+- tư vấn đê bạn ơi 
+- tôi cần phải được tư vấn ngay bây giờ
+
+## intent:tuition
+- ngoài học phí còn cần đóng những khoản tiền gì nữa không ạ?
+- toàn bộ học phí ngành cntt là bao nhiêu?
+- học phí ngành công nghệ thông tin ra sao ạ?
+- tổng học phí từ lúc học đến lúc ra trường là bao nhiêu
+- học phí bao nhiêu một kì ạ?
+- ngành quản trị kinh doanh học phí bao nhiêu ạ?
+- cho em xin học phí ngành marketing với
+- học phí một năm của trường là bao nhiêu vậy? 
+- học phí ngành QTNHKS của đại học FPT cần thơ là bao nhiêu ạ?
+- trong thời gian học có phái sinh thêm phí không ạ?
+- cho em hỏi học phí quản trị du lịch?
+- ngành công nghệ thông tin tai hà nội chi phí bao nhiêu.
+- cho mình hỏi ngôn ngữ nhật một năm thì học phí bao nhiêu vậy
+- học phí marketing bao nhiêu ạ? 
+- học phí tầm bao nhiêu một kì ạ
+- học phí ngành thiết kế đồ họa bao nhiêu ạ? 
+- học phí chuyên ngành nào cũng như nhau ạ?
+- cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu ạ?
+- cho e hỏi học phí ngành quản trị kinh doanh một năm là bao nhiêu ạ
+- ngoài học phí ra còn phát sinh thêm khoản nào không? 
+- học phí ngành quản trị du lịch và lữ hành tại đà năng bao nhiêu?
+- xin cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu một kỳ ạ?
+- cho em hỏi kỹ thuật phần mềm thì học phí bao nhiêu ạ?
+- học ngành thiết kế đồ họa thì tiền học phí là bao nhiêu? 
+- học ngành an ninh mạng thì học phí ra sao ạ.
+- cho em hỏi mức học phí của ngành trí tuệ nhân tạo là bao nhiêu vậy
+- học phí ngành quản trị nhà hàng khách sạn bao nhiêu ạ? 
+- cho em hỏi ngoài tiền học phí ra thì còn phải đóng thêm khoản nào không?
+- cho mình hỏi học phí ngành công nghệ thông tin bao nhiêu được không.
+- cho em hỏi học phí ngành thiết kế đồ họa bao nhiêu một năm ạ?
+- học phí tiếng anh nữa ạ?
+- học phí là bao nhiêu?
+- cho em hỏi ngành truyền thông và báo chí thì học phí thế nào? 
+- học phí ngành thiết kế đồ họa một năm bao nhiêu ạ? 
+- em hỏi ngành ngôn ngữ nhật học phí 1 kỳ bao nhiêu
+- cho em hỏi học phí ngành ngôn ngữ anh học phí bao nhiêu vậy?
+- cho em hỏi ngành quản trị du lịch và lữ hành học phí thế nào ạ 
+- học phí tổng cộng khoảng bao nhiêu
+- học phí 4 năm là bao nhiêu? 
+- học phí như thế nào ạ?
+- cho em hỏi học phí 4 năm tất cả là bao nhiêu ạ? 
+- tổng chi phí học 4 năm tại FPT hà nội là bao nhiêu ạ.
+- cho em hỏi ngành CNTT học phí bao nhiêu ạ?
+- cho em hỏi chi phí ngành ngôn ngữ anh của trường mình?
+- tôi muốn tìm hiểu thêm về học phí trường FTP
+- ngoài những chi phí trường đã nêu còn chi phí nào nữa không? 
+- học phí từng ngành như thế nào
+- tổng chi phí 1 năm học tại FPT phải đóng là bao nhiêu? 
+- cho em hỏi chi phí ngành quản trị khách sạn là bao nhiêu ạ? 
+- tổng học phí của ngành ngôn ngữ anh trong một năm là bao nhiêu
+- ngành cntt thì học phí trung bình là bao nhiêu vậy? 
+- tổng học phí đến khi tốt nghiệp là bao nhiêu ạ? 
+- cho em hỏi mức học phí của trường ạ? 
+- học phí một kì bao nhiêu?
+- cho mình hỏi ngoài tiền học còn phát sinh thêm phụ phí nào không?
+- tổng học phí toàn khóa là bao nhiêu?
+- học phí của ngành khoa học máy tính 1 năm là bao nhiêu?
+- học phí khóa tiếng anh dự bị là bao nhiêu? 
+- học phí tiếng anh dự bị.
+- cho em hỏi tiền học của 1 khóa tiếng anh là bao nhiêu? 
+- mình muốn hỏi học phí ngành khoa học máy tính là bao nhiêu? 
+- học phí một kì của trường là bao nhiêu vậy? 
+- học phí của trường có cao không? 
+- mình cần hỏi học phí của ngành mỹ thuật ứng dụng bao nhiêu một kỳ?
+- em muốn hỏi học phí của ngành kế toán kiểm toán ở trường mình ạ? 
+- học bên du lịch chi phí tổng là bao nhiêu ạ? 
+- học phí ngôn ngữ nhật bao nhiêu?
+- học phí chuyên ngành it bao nhiêu ạ? 
+- học phí bao nhiêu? 
+- học phí ở trường như thế nào ạ? 
+- học phí hết bao nhiêu cho một năm
+- trường đại học FPT đang nằm ở những đâu vậy?
+
+## intent:english
+- nếu có [chứng chỉ](certificate) tiếng anh thì có ưu tiên gì không ạ?
+- chưa có [chứng chỉ](certificate) thì phải học cả 6 mức tiếng anh đúng không ạ?
+- Cho em hỏi học tiếng Anh phải học cả 6 mức ạ nếu chưa có [chứng chỉ](certificate) đúng không
+- tiếng anh dự bị là [bắt buộc](obligatory) ạ?
+- cho em hỏi trường có [bắt buộc](obligatory) học chương trình tiếng anh dự bị không ạ?
+- em muốn học ở trường thì có [bắt buộc](obligatory) học thêm khóa tiếng anh của trường không ạ?
+- cho em hỏi muốn vào trường thì có [bắt buộc](obligatory) học tiếng anh không ạ 
+- vào trường thì [bắt buộc](obligatory) học tiếng anh ạ?
+- cho em hỏi học tiếng anh dự bị là [bắt buộc](obligatory) ạ?
+- [bắt buộc](obligatory) phải học tiếng anh dự bị đúng không ạ?
+- Học tiếng anh dự bị thì [bắt buộc](obligatory) phải không ạ?
+- em có chứng chỉ [ielts](certificate) 6.5 thì có được nhận ưu tiên gì không ạ
+- em có bằng [IL](certificate) thì có được miễn lớp tiếng anh dự bị không?
+- nếu em có bằng [TOELF](certificate) thì có được miễn học chương trình tiếng anh không ạ?
+- cho em hỏi có bằng [toeic](certificate) từ 500 trở lên có được miễn học chương trình tiếng anh không ạ 
+- cho em hỏi nếu mình có bằng [IELTS](certificate) thì mình sẽ được lợi thế gì ạ?
+- có bằng [ielts](certificate) đạt 6.0 và vẫn còn hiệu lực thì được miễn tiếng anh đầu vào phải không ạ?
+- em thì lấy bằng [IELTS](certificate) nhưng chưa đạt 6.0 thì có được ưu tiên gì không ạ?
+- cho em hỏi là nếu em có bằng [il](certificate) 5.5 thì chương trình dự bị tiếng anh sẽ thế nào ạ?
+- cho em hỏi mất gốc tiếng anh thì năm đầu sẽ được đào tạo lại ạ?
+- em học tiếng anh không giỏi thì trường mình có đào tạo lại không ạ?
+- trình độ tiếng anh của em rất kém vậy khi vào trường có được đào tạo lại từ đầu không ạ
+- cho em hỏi là nếu em mất gốc tiếng anh thì vào trường có được đào tạo lại không ạ?
+- cho mình hỏi nếu mất căn bản môn anh có được xét tuyển không ạ?
+- cho em hỏi là kiểm tra năng lực tiếng anh là kiểm tra phần gì vậy ạ?
+- có cần giỏi tiếng anh mới được vào trường không ạ?
+- ngoại ngữ của em yếu, em có được tuyển vào ĐH FPt không ạ?
+- trường có bài thi xét mức độ tiếng anh không ạ.
+- bài thi tiếng anh đầu vào kiểm tra dưới hình thức như thế nào?
+- cho em hỏi bài test tiếng anh cần bao nhiêu điểm để miễn phí khóa dự bị ạ.
+- cho em hỏi nếu có [IELTS](certificate) 6.5 thì sao ạ
+- Cho e hỏi nếu có [ielts](certificate) 6.0 năm đầu mình sẽ được miễn học tiếng anh  đúng không ạ?
+- cho em hỏi là nếu có bằng [toelf](certificate) 75 thì mình không cần phải học tiếng anh dự bị luôn hay vẫn phải thi?
+- cho em hỏi mất căn bản môn anh thì vào học như thế nào ạ?
+
+## intent:location
+- xin cho tôi hỏi các địa điểm của trường FPt để tiện làm việc với ạ?
+- học ở đà nẵng thì học ở đâu?
+- học ở hà nội thì học ở chỗ nào
+- cho em hỏi nếu hởi HCM thì học ở cơ sở địa chỉ nào ạ 
+- cho em hỏi là nếu học ở hà nội thì địa chỉ là ở đâu ạ?
+- em muốn hỏi là trường đại học FPT có những cơ sở nào ạ?
+- trường đang có ở những tỉnh nào ạ?
+- cơ sở học
+- cơ sở của FPT
+- chỗ trường học của FPT
+- cơ sở học của trường FPT
+- vị trí đặt trường FPT ở đâu vậy 
+- bạn ơi cho mình hỏi trường FPT nó nằm ở đâu 
+- bot cho mình hỏi FPT đang có những cơ sở nào thế 
+- mình muốn biết các cơ sở trường đại học hiện tại của FPT
+- cho mình hỏi địa chỉ của đại học FPT tại hà nội với ạ 
+- mình muốn hỏi địa chỉ của trường FPT tại đà nẵng.
+- địa chỉ của đại học fpt tại cần thơ nằm ở đâu
+
+## intent:ask_func_bot
+- bạn có thể làm được những gì
+- bạn giúp được gì nào?
+- chức năng của bạn là gì 
+- bạn có thể làm được bao nhiêu thứ
+- bạn giỏi nhất việc gì?
+- kể xem bạn làm được những gì nào?
+- cho tao biết mày làm được gì nhé?
+- lĩnh vực gì mày giỏi nhất 
+- mình tò mò về những việc bạn làm được?
+- mày giúp được gì nào?
+- em biết làm những gì?
+- những việc bạn có thể giúp mình là gì?
+- các chức năng mà bạn có thể làm là gì
+- bot biết gì
+- mày làm được gì
+- giúp được gì
+- làm được gì
+- biết gì mà nói
+- giúp được tao cái gì
+- có làm được trò gì
+- có làm được gì
+- bạn biết làm gì
+- em biết làm gì
+- em làm được gì
+- chẳng biết bạn làm được gì
+
+## intent:greeting
+- xin chào 
+- add ơi
+- chào add ạ
+- hello
+- hi
+- chào buổi sáng
+- chào buổi tối
+- hi ad ạ
+- chào mày
+- tao chào mày
+- em chào chị tư vấn
+- em chào anh 
+- ad ơi 
+- chào 
+- chào nhá 
+- xin chào bạn 
+- tao chào mày nhé 
+- hê lô
+- mình chào bạn ạ 
+- chào nhé
+- chào bot
+- chào ad
+- tao chào mày nhé
+- bố mày chào mày
+- tớ chào cậu
+- chào ngày mới 
+- ngày mới vui vẻ 
+- hello bạn
+- chào
+- chao xìn 
+- hihi
+- hey
+- chào bạn!!!
+- chào cháu
+
+## intent:recruitment
+- tuyển sinh 2020 như thế nào vậy?
+- muốn xét học bạ thì trường xét như thế nào?
+- hình thức tuyển sinh của FPT như thế nào vậy?
+- quy chế tuyển sinh 2020 của FPT có xét tuyển học bạ không ạ?
+- cho em hỏi thi xong THPTQG rồi mới đăng ký được không.
+- FPT có xét học bạ giáo dục thường xuyên không?
+- trường có xét học bạ không?
+- em tốt nghiệp cách đây 3 năm giờ còn xét học bạ được không ạ?
+- cách thức xét tuyển như thế nào ạ?
+- cho em hỏi sự khác nhau giữa xét điểm học bạ và thi thpt với ạ?
+- điều kiện xét tuyển của trường là gì ạ?
+- xét học bạ thì lấy điểm trung bình của mấy học kỳ?
+- em muốn xét tuyển theo kết quả THPTQG 2020 thì như thế nào ạ?
+- thi THPTQG đủ điểm vào trường thì có cần thi sơ tuyển nữa không?
+- thí sinh tự do thì có được xét học bạ không?
+- cách thức xét tuyển học bạ của trường FPT?
+- xét tuyển học bạ vào ngành kỹ thuật phần mền thì cần điều kiện gì?
+- điểu kiện để xét tuyển học bạ vào ngành cntt
+- điều kiện xét tuyển vào trường FPT là như thế nào?
+- tốt nghiệp năm 2017 muốn xét tuyển học bạ có được không?
+- xét tuyển học bạ rồi có cần thi THPT nữa không?
+- mình tốt nghiệp THPT năm 2018 có được xét tuyển học bạ không?
+- xét học bạ cần những tiêu chí gì?cho em hỏi năm 2019-2020 có xét học bạ không ạ?
+- em cần tư vấn cách xét học bạ ạ
+- thi THPTQG xong vẫn xét tuyển được phải không?
+- chỉ tiêu sét học bạ là bao nhiêu điểm?
+- FPT xét tuyển bao nhiêu điểm ạ?
+- cho em hỏi xét học bạ thì bao nhiêu phẩy ạ?
+- cách thức xét tuyển vào trường?
+- mình muốn hỏi cách thức xét tuyển vô trường là sao ạ? 
+- xét tuyển học bạ rồi còn có yêu cầu nào khác không?
+- mình ra trường năm 2018 rồi muốn vào học có phải thi lại không?
+- ngành thiết kế đồ họa xét tuyển như thế nào?
+- tốt nghiệp lớp 12 năm 2017 thì đăng ký hồ sơ được không ạ?
+- em tốt nghiệp năm 2018 giờ đăng ký được không ạ?
+- cho em hỏi cách tính điểm học bạ với ạ?
+- tôi muốn thi vào ngành QTKD thì hình thức tuyển sinh như thế nào?
+- ngành quản trị kinh doanh xét tổ hợp môn nào vậy ạ?
+- ngành quản lý truyền thông đa phương tiện thì xét tuyển khối nào vậy?
+- điều kiện để được tuyển thẳng ạ?
+- điều kiện xét tuyển bao gồm những nội dung gì ạ?
+- điều kiện thuyển thẳng năm 2020 như nào ạ?
+- ngành công nghệ thông tin xét tuyển những môn nào vậy?
+- cho mình hỏi có xét tuyển kì thi THPT không ạ?
+- ngành thiết kế mỹ thuật có được xét học bạ không? 
+- xét học bạ như thế nào mới đủ điều kiện vào ạ? 
+- cho mình hỏi xét học bạ thì cách tính điểm như thế nào ạ?
+- mình muốn hỏi công thức tính điểm xét học bạ như thế nào ạ? 
+- ngoài cách xét tuyển học bạ ra còn cách xét tuyển nào khác không?
+- điểm thi không đủ 21 điểm thì làm thế nào để được xét tuyển?
+
+## intent:info_major
+- em cần tư vấn ngành [hệ thống thông tin](major) và [kĩ thuật phần mềm](major) ạ.
+- em cần tư vấn ngành [quản trị kinh doanh](major), [kinh tế quốc tế](major) và [ngôn ngữ nhật](major) ạ
+- em muốn được tư vấn ngành [ngôn ngữ nhật](major) ạ 
+- em muốn tư vấn [thiết kế đồ họa](major) 
+- em muốn được tư vấn ngành [thiết kế đồ họa](major) ạ. 
+- em muốn được tư vấn ngành [công nghệ thông tin](major) ạ.
+- cho em hỏi là trường FPT có ngành [thiết kế đồ họa](major) không ạ???
+- cho em hỏi có ngành [truyền thông đa phương tiện](major) không ạ??
+- FPT có ngành [thiết kế đồ họa](major) không ạ 
+- em muốn hỏi về thông tin ngành [marketing](major).
+- ad cho em hỏi ngành [ngôn ngữ nhật](major) là học về gì thế?
+- ngành [ngôn ngữ anh](major) ở trường mình đào tạo những gì ạ?
+- có thể tư vấn cho em về chuyên ngành [tiếng hàn](major) không ạ?
+- cho em hỏi bên trường mình có ngành [khoa học máy tính](major) không ạ?
+- mã ngành [cntt](major) là gì vậy ạ.
+- cho em hỏi về thông tin ngành [QTKD](major)
+- ngành [KHMT](major) không có nữa ạ.
+- trường có đào tạo [ngành tâm lý](major) học không 
+- Có ngành [quản trị nhân sự](major) không ạ
+- ad có thể tư vấn giúp em về ngành [QTKS](major) không ạ 
+- cho em hỏi về ngành [quản trị truyền thông đa phương tiện](major) ạ 
+- chị cho em hỏi về thông tin [ngành kinh doanh quốc tế](major) với ạ.
+- em đang muốn theo học ngành [an toàn thông tin](major), tư vấn giúp em với ạ.
+- cho em hỏi trường có ngành [quản trị du lịch và lữ hành](major) không ạ?
+- em muốn biết thông tin chuyên ngành [quản trị dịch vụ du lịch và lữ hành](major) 
+- em muốn tư vấn về các ngành học của trường mình ạ
+- [iot](major) là học về cái gì vậy ạ.
+- cho em hỏi về ngành [trí tuệ nhân tạo](major) là học gì vậy ạ 
+
+## intent:thanks
+- cảm ơn
+- cám ơn
+- xin cám ơn
+- cảm ơn bạn
+- cảm ơn bạn rất nhiều
+- chân thành cảm ơn bạn
+- cảm ơn sự giúp đỡ của bạn
+- cảm ơn bot đã giúp tôi
+- mày thật tốt bụng
+- cám ơn mày rất nhiều
+- thanks
+- thank you
+- thank you so much.
+- rất cảm ơn
+- bạn thật tuyệt vời
+- thật lòng cảm ơn bạn.
+- thật sự rất cám ơn bạn
+- bạn thật giỏi
+- cám ơn nhé
+- cám ơn bot nha
+- cám ơn bot nhiều nhiều
+- cám ơn mày nhá bot
+- cảm ơn bạn nhá
+- cảm ơn vì tất cả
+
+## intent:complain
+- sao mày ngu thế?
+-  sai rồi
+- ai lại trả lời thế bao giờ
+- Nói với mày bực mình thật đấy
+- Mày nói cái gì vậy?
+- Mày trả lời sai rồi.
+- Sao trả lời chậm như rùa thế.
+- Lâu quá.
+- Bot ngu thế?
+- trả lời sai rồi
+- không phải
+- không đúng
+- ngu vậy
+- dễ thế cũng trả lời sai
+- không đúng rồi
+- không phải câu trả lời này
+- sai bét rồi
+- trả lời cái gì vậy
+- không hiểu
+- ngu không tả nổi
+- không phải thế này
+- mày nói linh tinh rồi
+- ngu thế thì ai chịu được 
+- ngu như chó
+- mày có biết là mày ngu lắm không 
+- ngu lắm luôn 
+- ngu thế không biết được 
+- ngu vừa vừa thôi chứ 
+- sao ngu vậy 
+- ôi trời ngu quá cơ 
+- bot ai làm mà ngu thế 
+- bot gì mà ngu vậy 
+- ngu không tả nổi 
+
+## intent:bye_bye
+- tạm biệt nhé 
+- tạm biệt
+- hẹn gặp lại bạn nhé 
+- mai gặp lại 
+- tạm biệt 
+- mình đi đây 
+- see you again 
+- bye bye
+- hẹn bạn vào lần sau nhé 
+- lần sau mình quay lại 
+- chào tạm biệt bạn nhé 
+- chào tạm biệt 
+- bái bai nhá
+- hẹn gặp lại nhá 
+- có gì gặp lại sau 
+- có gì tao hỏi tiếp 
+
+## intent:jobs
+- nhà trường có sắp xếp công việc cho sinh viên sau khi tốt nghiệp không 
+- cho em hỏi học xong có việc làm luôn không ạ?
+- cho em hỏi học ra là được FPT nhận làm hay sao vậy ạ?
+- sau khi tốt nghiệp nhà trường có đảm bảo sinh viên có việc làm ổn định không ạ
+- học xong có việc làm luôn không ạ 
+- cho em hỏi về cơ hội việc làm tại FPT
+- có được làm việc ở fpt sau khi tốt nghiệp không ạ?
+- cơ hội việc làm
+- việc làm 
+- có được làm việc tại FPT sau khi học xong?
+- học xong thì cơ hội việc làm của mình như thế nào ạ?
+- em muốn hỏi về cơ hội việc làm ạ?
+- mình có cơ hội đi làm ngay sau khi tốt nghiệp không ạ 
+- cho em hỏi về việc làm sau khi học xong ạ 
+- mình có được trường tìm việc cho sau khi tốt nghiệp không ạ 
+- ê cho tao hỏi về cơ hội việc làm với 
+- học xong có việc không 
+- bạn cho mình hỏi về việc làm sau khi học xong với  
+- về vấn đề việc làm khi học xong ạ
+- mình có thể có việc ngay sau khi học xong không ạ
+- mình muốn hỏi về vấn đề việc làm của FPT
+
+## intent:love_bot
+- tôi yêu bạn 
+- yêu bạn lắm 
+- yêu lắm luôn
+- yêu
+- love
+- love you
+- i love you
+- yêu nhiều 
+- yêu mày nhiều 
+- tao thích mày 
+- yêu mày 
+- yêu mày lắm luôn
+- quý mày
+- tao quý mày 
+- anh yêu em bot ạ
+- tao yêu mày mất rồi 
+- yêu nhá
+- yêu nhau không.
+- thích mày thực sự ý
+- yêu thế không biết 
+- bot ơi tôi yêu bạn
+- tôi yêu bạn
+- yêu bot lắm
+
+## intent:request_meet_staff
+- tôi muốn gặp nhân viên tư vấn 
+- cho mình gặp người tư vấn với
+- mình muốn hỏi trực tiếp nhân viên tư vấn 
+- cho mình liên hệ với tư vấn viên ạ 
+- mình cần liên hệ trực tiếp với tư vấn viên 
+- tư vấn viên đâu cho mình gặp với 
+- mình có thể liên lạc với tư vấn viên không ạ?
+- cho tao gặp tư vấn viên ngay 
+- tôi cần gặp trực tiếp nhân viên tư vấn 
+- gặp tư vấn viên 
+- nói chuyện với tư vấn viên 
+- mình thích nói chuyện với tư vấn viên, cho mình gặp đi
+- cho tôi gặp tư vấn viên đi bot ơi
+- cô muốn gặp tư vấn viên cháu ơi
+- chú cần gặp nhân viên
+- làm sao để mình có thể nói chuyện trực tiếp với người tư vấn được 
+- làm sao để được nói chuyện trực tiếp với người tư vấn vậy?
+- người tư vấn viên
+- tớ cần gặp trực tiếp tư vấn viên ý.
+- mình muốn gọi điện trực tiếp với tư vấn viên 
+- mình cần gọi cho tư vấn viên 
+- làm cách nào để nhắn tin được với tư vấn viên 
+- cho mình liên lạc với tư vấn viên đi
+- liên lạc trực tiếp đến người tư vấn 
+- liên lạc với người tư vấn ạ
+- cho mình hỏi là làm sao để liên hệ được với tư vấn ạ.
+- mình cần tư vấn viên ạ
+- mình cần nói chuyện với anh chị tư vấn ạ
+- cho mình hỏi trực tiếp anh chị tư vấn được không ạ 
+- hiện giờ mình rất muốn gặp được tư vấn viên ạ, bạn có thể giúp mình không?
+- thôi mình không thích nói chuyện với bạn nữa mình cần gặp tư vấn viên 
+- thôi tao không nói chuyện với mày cho tao gặp tư vấn viên đi 
+- tao cần gặp tư vấn viên, tao đéo nói chuyện với mày 
+- nói chuyện với mày cùi bỏ mẹ, cho tao gặp tư vấn viên đi
+- đéo nói chuyện với mày tao cần gặp nhân viên tư vấn 
+- tao muốn được gặp mấy bà tư vấn lắm mồm
+
+## intent:message_method
+- [nhắn tin](message) ạ
+- mình muốn [nhắn](message) thôi
+- chỉ cần [nhắn tin](message) thôi
+- mình cần [nhắn tin](message) thôi ạ
+- [nhắn tin](message) bạn ạ
+- [nhắn tin](message)
+- nt
+- [nhắn tin](message) nhé
+- tôi muốn [nhắn tin](message)
+- [nhắn tin](message) nhá
+- mình cần [nhắn tin](message) bạn ạ
+- bác cần [nhắn tin](message) cháu ạ
+- em cần nhắn ạ
+- tao muốn [nhắn tin](message) nhé
+- [nhắn tin](message) thôi
+- [nhắn](message)
+- [nhắn tin](message) nhé bot
+- [nhắn tin](message) là được rồi 
+- thôi [nhắn tin](message) cũng được 
+- cần [nhắn tin](message) bạn ạ
+- [tin nhắn](message)
+- [nhắn tin](message) là ok rồi 
+- thôi [nhắn tin](message) đi
+- chỉ cần [nhắn](message) thôi là được rồi
+- thôi [nhắn tin](message) đi cho nhanh 
+- bố muốn [nhắn tin](message) nhé
+- mình cũng chỉ cần [nhắn tin](message) thôi, không cần gọi
+- [nt](message) đi bạn 
+- [nt](message) ạ
+
+## intent:call_method
+- [gọi gọi](call)
+- [gọi](call) đê
+- tôi muốn [gọi](call) ạ
+- [gọi điện](call) đê
+- mình muốn [gọi điện](call) ạ
+- tớ cần [gọi điện](call) nhé
+- [gọi điện](call) đi nào 
+- em thích được [gọi điện](call) ạ
+- [gọi điện](call) đi ạ
+- mình cần [gọi điện](call) trực tiếp nhé
+- [gọi điện](call) cháu ạ
+- [gọi điện](call) bot ạ
+- tao muốn được [gọi điện](call) nhé mày 
+- tao muốn liên lạc bằng cách [gọi điện](call)
+- [gọi điện](call) đi nói cho rõ 
+- [gọi điện](call) ngay và luôn 
+- tôi cần được [gọi điện](call) bot ạ
+- mình rất muốn được [gọi điện](call)
+- cần lắm một [cuộc gọi](call) ạ
+- [gọi điện](call) bot ơi 
+- [gọi điện](call)
+- [gọi](call) 
+- [gọi điện](call) ạ
+- [goi dien](call)
+- [goi](call)
+- [goi dien](call) di a
+- [gọi điện](call) đi cho rõ ạ
+- [gọi điện](call) đi nhé bot 
+
+## intent:user_name
+- [Trịnh quang huy](name)
+- tên mình là [đặng thu huyền](name)
+- [vũ minh hiếu](name)
+- tên [nguyễn ngọc quang đăng](name) ạ
+- [trần thu huệ](name)
+- là [Trần tuệ nhi](name) ạ
+- họ và tên của tôi là: [trần đức bo](name) ạ
+- là [ngô thanh vân](name) ạ.
+- em là [Đăng Quang Bách](name) ạ
+- tên [Vũ Trung Thành](name) 
+- em tên [Vũ Minh Đức](name) ạ
+- là [Trấn thành](name)
+- [ngô thị thương](name)
+- [trịnh thị lan anh](name)
+- [trịnh văn vang](name)
+- em là [nguyễn minh hằng](name) ạ
+- tớ là [phạm ngọc long](name) 
+- mình là [nguyễn văn trung](name)
+- tao tên [đào văn thắng](name)
+- tao tên [Bùi Kim Quyên](name)
+- tôi là [Võ An Phước Thiện](name)
+- bố mày tên [Phạm Nguyễn Quỳnh Trân](name)
+- em là [Dương Hoài Phương](name)
+- tôi là [Phan Vinh Bính](name)
+-  dạ em tên [Võ Minh Thư](name)
+- [Phan Huỳnh Ngọc Dung](name)
+- [Nguyễn Vân Anh](name)
+- [Nguyễn Thế Vinh](name)
+- [Nguyen Thi Thanh Bích](name)
+- [Lê Minh Vương](name)
+- [nguyễn thiện toàn](name)
+- [Trương Gia Mẫn](name)
+- [Vương Thu Hiền](name)
+- [Châu Thị Kim Anh](name)
+- [Trần NGọc Trang](name)
+- [huynh minh](name)
+- [Cao Minh Hiền](name)
+- [Ta thị thanh tuyen](name)
+- [Võ Thị Tuyết Vân](name)
+- [Mai Khánh Vân](name)
+- [Đoàn Thị Mỹ Xuân](name)
+- [Doãn Phan Trung Hải](name)
+- [Lâm Ngọc Linh](name)
+- [Nguyễn Minh Châu](name)
+- [Nguyễn Thạch Giang](name)
+- [Võ tường duy](name)
+- [Trần Thị Kim  Ngân](name)
+- [Huỳnh Kim Hoàng](name)
+- [Nguyễn Phước Uyên Thư](name)
+- [Lê Trung Kiên](name) nhá
+- [Kiều Hồng Trang](name) nhé bạn 
+- là: [le thi hong khanh](name) ạ
+- họ tên của mình là: [Phạm Văn Đồng](name) ạ 
+- mình tên là [lê thị lệ thủy](name)
+- [Trương Yến Thanh](name) nhé 
+- đây nhé tên của tôi [ngô thanh hà](name)
+- [Lê Hạ Lam](name)
+- mình tên [trịnh thăng bình](name) ạ
+- tôi tên [nguyễn trung thành](name) nhá 
+- [đàm vĩnh hưng](name)
+- [vũ trung thực](name)
+- [nguyễn ngọc ngạn](name)
+- [trần kim liên](name)
+
+## intent:user_birth
+- [8/7/1991](birth)
+- [25/1/1989](birth)
+- [28/4/1987](birth)
+- [30/5/1981](birth)
+- [28/8/1992](birth)
+- đây là ngày sinh của mình [21/10/1994](birth)
+- ngày sinh của mình đây: [10/10/1996](birth)
+- mình sinh ngày [22/1/1993](birth) ạ
+- tôi có ngày sinh là [6/9/1993](birth)
+- tớ đẻ ngày [3/8/1992](birth)
+- đây ạ: [10/12/1988](birth), ngày sinh của mình đó 
+- tao sinh ngày [5/12/1994](birth)
+- em sinh [21/09/1993](birth)
+- [3/8/1991](birth) đây ạ
+- [9/5/1990](birth) ngày sinh mình đây 
+- [5/10/1996](birth) ngày tháng năm sinh của mình đây 
+- ngày sinh của tao đây mày [26/2/1985](birth)
+- đây nhé [4/10/1989](birth)
+- tao sinh [25/05/92](birth)
+- mình gửi bạn ngày sinh [28/01/1992](birth)
+- đây là ngày sinh tô ạ [8/10/1981](birth)
+- tôi sinh ngày [18/09/1992](birth)
+- [17/03/1992](birth) đây ngày sinh của tao đây 
+- [22/7/1993](birth) ạ
+- [24/9/1992](birth) đó nhé
+- [2/10/1997](birth)
+- [9/7/1991](birth)
+- [1/11/1994](birth)
+- [22/12/1992](birth)
+- [29/09/1994](birth)
+- [17/01/1993](birth)
+- [22-12-1992](birth)
+- [13-04-1993](birth)
+- [10-4-1993](birth)
+- [12-1-1992](birth)
+- [28-8-1994](birth)
+- ngày sinh của mình là [17/08/1899](birth)
+- tôi sinh ngày [16/091898](birth)
+- mình sinh ngày [16/08/1898](birth)
+
+## intent:user_phone_number
+- đây là số của mình ạ [0914162689](phone_number)
+- sô mình đây ạ [0977557349](phone_number)
+- đây là sô mình [0974552551](phone_number)
+- sô của mình [0972544485](phone_number)
+- tôi gửi bạn nhé [0975236626](phone_number)
+- số điện thoại của tôi đây [0323424929](phone_number)
+- gửi cho bạn số của mình ạ [0334353634](phone_number)
+- đây nhé [0342316171](phone_number)
+- sô đây [0351252352](phone_number) ạ
+- sô tao này [0365464747](phone_number)
+- số điện thoại đây [0372134634](phone_number)
+- số đây nhá [0394537436](phone_number)
+- [0832423534](phone_number) sô đây nhá 
+- [0847869987](phone_number) đây 
+- [0851342451](phone_number) đây nè
+- [0811346322](phone_number) mình gửi bạn 
+- sô của bố mày đây [0822234443](phone_number)
+- đây là số của tôi [0561342453](phone_number)
+- số của mình đây bạn lưu vào đi [0583521142](phone_number)
+- bạn lưu số của mình vào nhá [0592342323](phone_number)
+- [0592351323](phone_number)
+- [0593453463](phone_number)
+- [0761235436](phone_number)
+- [0762365442](phone_number)
+- [0792468976](phone_number)
+- [0792464563](phone_number)
+- [0792367665](phone_number)
+- [0702364435](phone_number)
+- [0293828193](phone_number)
+
+## intent:user_school
+- [THPT Bắc Lương Sơn](school)
+- [THPT Bắc Thăng Long](school)
+- [THPT Bất Bạt](school)
+- [THPT Cao Bá Quát-Gia Lâm](school)
+- [THPT Cao Bá Quát-Quốc Oai](school)
+- [THPT Cầu Giấy](school)
+- [THPT Chu Văn An](school)
+- [THPT Chuyên Đại học Sư phạm](school)
+- [THPT Chuyên Hà Nội-Amsterdam](school)
+- [thpt Chuyên KHTN](school)
+- [thpt Chuyên Nguyễn Huệ](school)
+- [thpt Chuyên Ngữ ĐH Ngoại ngữ](school)
+- [thpt Chúc Động](school)
+- [thpt Chương Mỹ A](school)
+- trường [THPT Chương Mỹ B](school) ạ
+- em học trường [THPT Cổ Loa](school)
+- mình học ở [THPT Dương Xá](school)
+- [thpt Đa Phúc](school) là trrường của mình ạ
+- trường của mình là thpt Đại Cường
+- trường mình đây [thpt Đại Mỗ](school)
+- [THPT Đan Phượng](school) là trường mình nhé
+- [THPT Đoàn Kết-Hai Bà Trưng](school)
+- [thpt Đông Anh](school) là trường mình 
+- [THPT Đồng Quan](school) là trường mình đó 
+- trường mình nè [THPT Đống Đa](school)
+- [THPT Hai Bà Trưng-Thạch Thất](school)
+- [THPT Hoài Đức A](school)
+- [THPT Hoài Đức B](school)
+- [THPT Hoàng Cầu](school)

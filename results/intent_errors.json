@@ -1,0 +1,5250 @@
+[
+  {
+    "text": "chị có thể tư vấn cho em được không ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3248876631259918
+    }
+  },
+  {
+    "text": "chị tư vấn cho em với được không ạ?",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3052905797958374
+    }
+  },
+  {
+    "text": "có thể tư vấn thêm cho em được không ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3378497064113617
+    }
+  },
+  {
+    "text": "anh tư vấn cho em với ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4960780143737793
+    }
+  },
+  {
+    "text": "em muốn được tư vấn ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.38727235794067383
+    }
+  },
+  {
+    "text": "tư vấn thêm cho em với ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3197447955608368
+    }
+  },
+  {
+    "text": "em muốn nghe tư vấn ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40398868918418884
+    }
+  },
+  {
+    "text": "bot có thể tư vấn giúp mình được không?",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8166365623474121
+    }
+  },
+  {
+    "text": "dạ tư vấn giúp em với ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.34955722093582153
+    }
+  },
+  {
+    "text": "em cần được tư vấn ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.35396113991737366
+    }
+  },
+  {
+    "text": "cần được tư vấn ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4639809727668762
+    }
+  },
+  {
+    "text": "tư vấn cho mình với nhé",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.45523467659950256
+    }
+  },
+  {
+    "text": "mình cần hỏi một vài thông tin",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3558664619922638
+    }
+  },
+  {
+    "text": "tôi cần được tư vấn, bạn có thể giúp tôi không",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3891582489013672
+    }
+  },
+  {
+    "text": "bạn có thể tư vấn giúp tôi không?",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3930768072605133
+    }
+  },
+  {
+    "text": "mình cần hỏi đáp một vài thông tin ạ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.29767435789108276
+    }
+  },
+  {
+    "text": "em cần tư vấn một số thứ, giúp em với.",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4093751609325409
+    }
+  },
+  {
+    "text": "em đang thắc mắc vài chỗ ạ?",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.395612508058548
+    }
+  },
+  {
+    "text": "Chị làm ơn tư vấn kĩ hơn cho em với ạ.",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3788980543613434
+    }
+  },
+  {
+    "text": "Cần được tư vấn kĩ hơn ạ.",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6032267808914185
+    }
+  },
+  {
+    "text": "Mong chị tư vấn cho em ạ.",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.34478065371513367
+    }
+  },
+  {
+    "text": "ê mày tao cần hỏi đáp vài thứ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.499470055103302
+    }
+  },
+  {
+    "text": "tôi cần giải đáp một vài câu hỏi",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3770580589771271
+    }
+  },
+  {
+    "text": "ê tao có câu hỏi muốn hỏi mày",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5738065242767334
+    }
+  },
+  {
+    "text": "hỏi vài câu với mày ơi",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2887857258319855
+    }
+  },
+  {
+    "text": "có vài thắc mắc cần tư vấn",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3804669976234436
+    }
+  },
+  {
+    "text": "tư vấn giúp mình với được không bot ơi",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8611140251159668
+    }
+  },
+  {
+    "text": "tư vấn",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6289286613464355
+    }
+  },
+  {
+    "text": "tư vấn đê bạn ơi",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.38107872009277344
+    }
+  },
+  {
+    "text": "tôi cần phải được tư vấn ngay bây giờ",
+    "intent": "advisory",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3858422636985779
+    }
+  },
+  {
+    "text": "ngoài học phí còn cần đóng những khoản tiền gì nữa không ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4957031011581421
+    }
+  },
+  {
+    "text": "toàn bộ học phí ngành cntt là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.42011895775794983
+    }
+  },
+  {
+    "text": "học phí ngành công nghệ thông tin ra sao ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.27978187799453735
+    }
+  },
+  {
+    "text": "tổng học phí từ lúc học đến lúc ra trường là bao nhiêu",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4562583267688751
+    }
+  },
+  {
+    "text": "học phí bao nhiêu một kì ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4660604000091553
+    }
+  },
+  {
+    "text": "ngành quản trị kinh doanh học phí bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4538350999355316
+    }
+  },
+  {
+    "text": "cho em xin học phí ngành marketing với",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.32513362169265747
+    }
+  },
+  {
+    "text": "học phí một năm của trường là bao nhiêu vậy?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5447463393211365
+    }
+  },
+  {
+    "text": "học phí ngành QTNHKS của đại học FPT cần thơ là bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.482493132352829
+    }
+  },
+  {
+    "text": "trong thời gian học có phái sinh thêm phí không ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2775602340698242
+    }
+  },
+  {
+    "text": "cho em hỏi học phí quản trị du lịch?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.28813987970352173
+    }
+  },
+  {
+    "text": "ngành công nghệ thông tin tai hà nội chi phí bao nhiêu.",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.3449755311012268
+    }
+  },
+  {
+    "text": "cho mình hỏi ngôn ngữ nhật một năm thì học phí bao nhiêu vậy",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3726453483104706
+    }
+  },
+  {
+    "text": "học phí marketing bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.36752229928970337
+    }
+  },
+  {
+    "text": "học phí tầm bao nhiêu một kì ạ",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5296617150306702
+    }
+  },
+  {
+    "text": "học phí ngành thiết kế đồ họa bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33314380049705505
+    }
+  },
+  {
+    "text": "học phí chuyên ngành nào cũng như nhau ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5226069092750549
+    }
+  },
+  {
+    "text": "cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3154214322566986
+    }
+  },
+  {
+    "text": "cho e hỏi học phí ngành quản trị kinh doanh một năm là bao nhiêu ạ",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37883782386779785
+    }
+  },
+  {
+    "text": "ngoài học phí ra còn phát sinh thêm khoản nào không?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.43034619092941284
+    }
+  },
+  {
+    "text": "học phí ngành quản trị du lịch và lữ hành tại đà năng bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.34702813625335693
+    }
+  },
+  {
+    "text": "xin cho em hỏi học phí ngành ngôn ngữ anh bao nhiêu một kỳ ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3625418245792389
+    }
+  },
+  {
+    "text": "cho em hỏi kỹ thuật phần mềm thì học phí bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4520800709724426
+    }
+  },
+  {
+    "text": "học ngành thiết kế đồ họa thì tiền học phí là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3993052840232849
+    }
+  },
+  {
+    "text": "học ngành an ninh mạng thì học phí ra sao ạ.",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.39574408531188965
+    }
+  },
+  {
+    "text": "cho em hỏi mức học phí của ngành trí tuệ nhân tạo là bao nhiêu vậy",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.43274959921836853
+    }
+  },
+  {
+    "text": "học phí ngành quản trị nhà hàng khách sạn bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.36208704113960266
+    }
+  },
+  {
+    "text": "cho em hỏi ngoài tiền học phí ra thì còn phải đóng thêm khoản nào không?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.42240288853645325
+    }
+  },
+  {
+    "text": "cho mình hỏi học phí ngành công nghệ thông tin bao nhiêu được không.",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.3914141356945038
+    }
+  },
+  {
+    "text": "cho em hỏi học phí ngành thiết kế đồ họa bao nhiêu một năm ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3555288314819336
+    }
+  },
+  {
+    "text": "học phí tiếng anh nữa ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5114430785179138
+    }
+  },
+  {
+    "text": "học phí là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3147866129875183
+    }
+  },
+  {
+    "text": "cho em hỏi ngành truyền thông và báo chí thì học phí thế nào?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.39655035734176636
+    }
+  },
+  {
+    "text": "học phí ngành thiết kế đồ họa một năm bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.34899890422821045
+    }
+  },
+  {
+    "text": "em hỏi ngành ngôn ngữ nhật học phí 1 kỳ bao nhiêu",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37745994329452515
+    }
+  },
+  {
+    "text": "cho em hỏi học phí ngành ngôn ngữ anh học phí bao nhiêu vậy?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.30082693696022034
+    }
+  },
+  {
+    "text": "cho em hỏi ngành quản trị du lịch và lữ hành học phí thế nào ạ",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3817092776298523
+    }
+  },
+  {
+    "text": "học phí tổng cộng khoảng bao nhiêu",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.47095802426338196
+    }
+  },
+  {
+    "text": "học phí 4 năm là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4849001169204712
+    }
+  },
+  {
+    "text": "học phí như thế nào ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5230985283851624
+    }
+  },
+  {
+    "text": "cho em hỏi học phí 4 năm tất cả là bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5180144309997559
+    }
+  },
+  {
+    "text": "tổng chi phí học 4 năm tại FPT hà nội là bao nhiêu ạ.",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4554072618484497
+    }
+  },
+  {
+    "text": "cho em hỏi ngành CNTT học phí bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3402550220489502
+    }
+  },
+  {
+    "text": "cho em hỏi chi phí ngành ngôn ngữ anh của trường mình?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2903137803077698
+    }
+  },
+  {
+    "text": "tôi muốn tìm hiểu thêm về học phí trường FTP",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4785098135471344
+    }
+  },
+  {
+    "text": "ngoài những chi phí trường đã nêu còn chi phí nào nữa không?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.43954169750213623
+    }
+  },
+  {
+    "text": "học phí từng ngành như thế nào",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5292431712150574
+    }
+  },
+  {
+    "text": "tổng chi phí 1 năm học tại FPT phải đóng là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4811491370201111
+    }
+  },
+  {
+    "text": "cho em hỏi chi phí ngành quản trị khách sạn là bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.32701411843299866
+    }
+  },
+  {
+    "text": "tổng học phí của ngành ngôn ngữ anh trong một năm là bao nhiêu",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4089297652244568
+    }
+  },
+  {
+    "text": "ngành cntt thì học phí trung bình là bao nhiêu vậy?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2978099584579468
+    }
+  },
+  {
+    "text": "tổng học phí đến khi tốt nghiệp là bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3103957176208496
+    }
+  },
+  {
+    "text": "cho em hỏi mức học phí của trường ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4572792053222656
+    }
+  },
+  {
+    "text": "học phí một kì bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4227423667907715
+    }
+  },
+  {
+    "text": "cho mình hỏi ngoài tiền học còn phát sinh thêm phụ phí nào không?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.34614741802215576
+    }
+  },
+  {
+    "text": "tổng học phí toàn khóa là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5481131076812744
+    }
+  },
+  {
+    "text": "học phí của ngành khoa học máy tính 1 năm là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5574130415916443
+    }
+  },
+  {
+    "text": "học phí khóa tiếng anh dự bị là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6025828719139099
+    }
+  },
+  {
+    "text": "học phí tiếng anh dự bị.",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.42522168159484863
+    }
+  },
+  {
+    "text": "cho em hỏi tiền học của 1 khóa tiếng anh là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6461039185523987
+    }
+  },
+  {
+    "text": "mình muốn hỏi học phí ngành khoa học máy tính là bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3576221466064453
+    }
+  },
+  {
+    "text": "học phí một kì của trường là bao nhiêu vậy?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5613411068916321
+    }
+  },
+  {
+    "text": "học phí của trường có cao không?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3991224765777588
+    }
+  },
+  {
+    "text": "mình cần hỏi học phí của ngành mỹ thuật ứng dụng bao nhiêu một kỳ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41515493392944336
+    }
+  },
+  {
+    "text": "em muốn hỏi học phí của ngành kế toán kiểm toán ở trường mình ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5381553769111633
+    }
+  },
+  {
+    "text": "học bên du lịch chi phí tổng là bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3506898880004883
+    }
+  },
+  {
+    "text": "học phí ngôn ngữ nhật bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5079430937767029
+    }
+  },
+  {
+    "text": "học phí chuyên ngành it bao nhiêu ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.31607598066329956
+    }
+  },
+  {
+    "text": "học phí bao nhiêu?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.27194878458976746
+    }
+  },
+  {
+    "text": "học phí ở trường như thế nào ạ?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4362550675868988
+    }
+  },
+  {
+    "text": "học phí hết bao nhiêu cho một năm",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4097948968410492
+    }
+  },
+  {
+    "text": "trường đại học FPT đang nằm ở những đâu vậy?",
+    "intent": "tuition",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.43967404961586
+    }
+  },
+  {
+    "text": "nếu có chứng chỉ tiếng anh thì có ưu tiên gì không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.31722456216812134
+    }
+  },
+  {
+    "text": "chưa có chứng chỉ thì phải học cả 6 mức tiếng anh đúng không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4450184106826782
+    }
+  },
+  {
+    "text": "Cho em hỏi học tiếng Anh phải học cả 6 mức ạ nếu chưa có chứng chỉ đúng không",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.47195160388946533
+    }
+  },
+  {
+    "text": "tiếng anh dự bị là bắt buộc ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7196722626686096
+    }
+  },
+  {
+    "text": "cho em hỏi trường có bắt buộc học chương trình tiếng anh dự bị không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4347473382949829
+    }
+  },
+  {
+    "text": "em muốn học ở trường thì có bắt buộc học thêm khóa tiếng anh của trường không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.582317054271698
+    }
+  },
+  {
+    "text": "cho em hỏi muốn vào trường thì có bắt buộc học tiếng anh không ạ",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.48572391271591187
+    }
+  },
+  {
+    "text": "vào trường thì bắt buộc học tiếng anh ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5474768280982971
+    }
+  },
+  {
+    "text": "cho em hỏi học tiếng anh dự bị là bắt buộc ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.606319010257721
+    }
+  },
+  {
+    "text": "bắt buộc phải học tiếng anh dự bị đúng không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5570013523101807
+    }
+  },
+  {
+    "text": "Học tiếng anh dự bị thì bắt buộc phải không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5048460364341736
+    }
+  },
+  {
+    "text": "em có chứng chỉ ielts 6.5 thì có được nhận ưu tiên gì không ạ",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.35698145627975464
+    }
+  },
+  {
+    "text": "em có bằng IL thì có được miễn lớp tiếng anh dự bị không?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5019145011901855
+    }
+  },
+  {
+    "text": "nếu em có bằng TOELF thì có được miễn học chương trình tiếng anh không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.40656614303588867
+    }
+  },
+  {
+    "text": "cho em hỏi có bằng toeic từ 500 trở lên có được miễn học chương trình tiếng anh không ạ",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4448317587375641
+    }
+  },
+  {
+    "text": "cho em hỏi nếu mình có bằng IELTS thì mình sẽ được lợi thế gì ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3952879011631012
+    }
+  },
+  {
+    "text": "có bằng ielts đạt 6.0 và vẫn còn hiệu lực thì được miễn tiếng anh đầu vào phải không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5470228791236877
+    }
+  },
+  {
+    "text": "em thì lấy bằng IELTS nhưng chưa đạt 6.0 thì có được ưu tiên gì không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5280819535255432
+    }
+  },
+  {
+    "text": "cho em hỏi là nếu em có bằng il 5.5 thì chương trình dự bị tiếng anh sẽ thế nào ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4666001796722412
+    }
+  },
+  {
+    "text": "cho em hỏi mất gốc tiếng anh thì năm đầu sẽ được đào tạo lại ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.529729962348938
+    }
+  },
+  {
+    "text": "em học tiếng anh không giỏi thì trường mình có đào tạo lại không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3070560693740845
+    }
+  },
+  {
+    "text": "trình độ tiếng anh của em rất kém vậy khi vào trường có được đào tạo lại từ đầu không ạ",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5498759746551514
+    }
+  },
+  {
+    "text": "cho em hỏi là nếu em mất gốc tiếng anh thì vào trường có được đào tạo lại không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.46799805760383606
+    }
+  },
+  {
+    "text": "cho mình hỏi nếu mất căn bản môn anh có được xét tuyển không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4669233560562134
+    }
+  },
+  {
+    "text": "cho em hỏi là kiểm tra năng lực tiếng anh là kiểm tra phần gì vậy ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6403352618217468
+    }
+  },
+  {
+    "text": "có cần giỏi tiếng anh mới được vào trường không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.37411391735076904
+    }
+  },
+  {
+    "text": "ngoại ngữ của em yếu, em có được tuyển vào ĐH FPt không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5698770880699158
+    }
+  },
+  {
+    "text": "trường có bài thi xét mức độ tiếng anh không ạ.",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3425692617893219
+    }
+  },
+  {
+    "text": "bài thi tiếng anh đầu vào kiểm tra dưới hình thức như thế nào?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4137056767940521
+    }
+  },
+  {
+    "text": "cho em hỏi bài test tiếng anh cần bao nhiêu điểm để miễn phí khóa dự bị ạ.",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6183607578277588
+    }
+  },
+  {
+    "text": "cho em hỏi nếu có IELTS 6.5 thì sao ạ",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5673630237579346
+    }
+  },
+  {
+    "text": "Cho e hỏi nếu có ielts 6.0 năm đầu mình sẽ được miễn học tiếng anh  đúng không ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4519510865211487
+    }
+  },
+  {
+    "text": "cho em hỏi là nếu có bằng toelf 75 thì mình không cần phải học tiếng anh dự bị luôn hay vẫn phải thi?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.35430875420570374
+    }
+  },
+  {
+    "text": "cho em hỏi mất căn bản môn anh thì vào học như thế nào ạ?",
+    "intent": "english",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3542686402797699
+    }
+  },
+  {
+    "text": "xin cho tôi hỏi các địa điểm của trường FPt để tiện làm việc với ạ?",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6266854405403137
+    }
+  },
+  {
+    "text": "học ở đà nẵng thì học ở đâu?",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.31482577323913574
+    }
+  },
+  {
+    "text": "học ở hà nội thì học ở chỗ nào",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.41564467549324036
+    }
+  },
+  {
+    "text": "cho em hỏi nếu hởi HCM thì học ở cơ sở địa chỉ nào ạ",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41885650157928467
+    }
+  },
+  {
+    "text": "cho em hỏi là nếu học ở hà nội thì địa chỉ là ở đâu ạ?",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4175011217594147
+    }
+  },
+  {
+    "text": "em muốn hỏi là trường đại học FPT có những cơ sở nào ạ?",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3845251798629761
+    }
+  },
+  {
+    "text": "trường đang có ở những tỉnh nào ạ?",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.38383030891418457
+    }
+  },
+  {
+    "text": "cơ sở học",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5234858393669128
+    }
+  },
+  {
+    "text": "cơ sở của FPT",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7368559837341309
+    }
+  },
+  {
+    "text": "chỗ trường học của FPT",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5467044115066528
+    }
+  },
+  {
+    "text": "cơ sở học của trường FPT",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6239246129989624
+    }
+  },
+  {
+    "text": "vị trí đặt trường FPT ở đâu vậy",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6223070025444031
+    }
+  },
+  {
+    "text": "bạn ơi cho mình hỏi trường FPT nó nằm ở đâu",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.43185821175575256
+    }
+  },
+  {
+    "text": "bot cho mình hỏi FPT đang có những cơ sở nào thế",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7868918180465698
+    }
+  },
+  {
+    "text": "mình muốn biết các cơ sở trường đại học hiện tại của FPT",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5590528845787048
+    }
+  },
+  {
+    "text": "cho mình hỏi địa chỉ của đại học FPT tại hà nội với ạ",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5513589978218079
+    }
+  },
+  {
+    "text": "mình muốn hỏi địa chỉ của trường FPT tại đà nẵng.",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6026699542999268
+    }
+  },
+  {
+    "text": "địa chỉ của đại học fpt tại cần thơ nằm ở đâu",
+    "intent": "location",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5698752999305725
+    }
+  },
+  {
+    "text": "bạn có thể làm được những gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3960074782371521
+    }
+  },
+  {
+    "text": "bạn giúp được gì nào?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.35878366231918335
+    }
+  },
+  {
+    "text": "chức năng của bạn là gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.38923296332359314
+    }
+  },
+  {
+    "text": "bạn có thể làm được bao nhiêu thứ",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3471539616584778
+    }
+  },
+  {
+    "text": "bạn giỏi nhất việc gì?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33686867356300354
+    }
+  },
+  {
+    "text": "kể xem bạn làm được những gì nào?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3887346088886261
+    }
+  },
+  {
+    "text": "cho tao biết mày làm được gì nhé?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6548630595207214
+    }
+  },
+  {
+    "text": "lĩnh vực gì mày giỏi nhất",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2801533639431
+    }
+  },
+  {
+    "text": "mình tò mò về những việc bạn làm được?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4159413278102875
+    }
+  },
+  {
+    "text": "mày giúp được gì nào?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2938636839389801
+    }
+  },
+  {
+    "text": "em biết làm những gì?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.323576956987381
+    }
+  },
+  {
+    "text": "những việc bạn có thể giúp mình là gì?",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3052332401275635
+    }
+  },
+  {
+    "text": "các chức năng mà bạn có thể làm là gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3221178352832794
+    }
+  },
+  {
+    "text": "bot biết gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9945229291915894
+    }
+  },
+  {
+    "text": "mày làm được gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.33413177728652954
+    }
+  },
+  {
+    "text": "giúp được gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3237948417663574
+    }
+  },
+  {
+    "text": "làm được gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3416995406150818
+    }
+  },
+  {
+    "text": "biết gì mà nói",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.34070324897766113
+    }
+  },
+  {
+    "text": "giúp được tao cái gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6363482475280762
+    }
+  },
+  {
+    "text": "có làm được trò gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3766038119792938
+    }
+  },
+  {
+    "text": "có làm được gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.31900015473365784
+    }
+  },
+  {
+    "text": "bạn biết làm gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5625722408294678
+    }
+  },
+  {
+    "text": "em biết làm gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4289173185825348
+    }
+  },
+  {
+    "text": "em làm được gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3654255270957947
+    }
+  },
+  {
+    "text": "chẳng biết bạn làm được gì",
+    "intent": "ask_func_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5106076598167419
+    }
+  },
+  {
+    "text": "xin chào",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.45956727862358093
+    }
+  },
+  {
+    "text": "add ơi",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5373392105102539
+    }
+  },
+  {
+    "text": "chào add ạ",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2996242344379425
+    }
+  },
+  {
+    "text": "hello",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9999880194664001
+    }
+  },
+  {
+    "text": "hi",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9999663829803467
+    }
+  },
+  {
+    "text": "chào buổi sáng",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.25444796681404114
+    }
+  },
+  {
+    "text": "chào buổi tối",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2915104627609253
+    }
+  },
+  {
+    "text": "hi ad ạ",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8567078113555908
+    }
+  },
+  {
+    "text": "chào mày",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33642807602882385
+    }
+  },
+  {
+    "text": "tao chào mày",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5694776177406311
+    }
+  },
+  {
+    "text": "em chào chị tư vấn",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3482327461242676
+    }
+  },
+  {
+    "text": "em chào anh",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.37468236684799194
+    }
+  },
+  {
+    "text": "ad ơi",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.716167151927948
+    }
+  },
+  {
+    "text": "chào",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5449399352073669
+    }
+  },
+  {
+    "text": "chào nhá",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6568852663040161
+    }
+  },
+  {
+    "text": "xin chào bạn",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5351763367652893
+    }
+  },
+  {
+    "text": "tao chào mày nhé",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4116411507129669
+    }
+  },
+  {
+    "text": "hê lô",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5175936222076416
+    }
+  },
+  {
+    "text": "mình chào bạn ạ",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3835509121417999
+    }
+  },
+  {
+    "text": "chào nhé",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6568852663040161
+    }
+  },
+  {
+    "text": "chào bot",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9937771558761597
+    }
+  },
+  {
+    "text": "chào ad",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5953953266143799
+    }
+  },
+  {
+    "text": "bố mày chào mày",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41711223125457764
+    }
+  },
+  {
+    "text": "tớ chào cậu",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.43224090337753296
+    }
+  },
+  {
+    "text": "chào ngày mới",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5042962431907654
+    }
+  },
+  {
+    "text": "ngày mới vui vẻ",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.213873952627182
+    }
+  },
+  {
+    "text": "hello bạn",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9990195035934448
+    }
+  },
+  {
+    "text": "chao xìn",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4999364912509918
+    }
+  },
+  {
+    "text": "hihi",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9999359846115112
+    }
+  },
+  {
+    "text": "hey",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9999897480010986
+    }
+  },
+  {
+    "text": "chào bạn!!!",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5684236884117126
+    }
+  },
+  {
+    "text": "chào cháu",
+    "intent": "greeting",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5867661833763123
+    }
+  },
+  {
+    "text": "tuyển sinh 2020 như thế nào vậy?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.49490711092948914
+    }
+  },
+  {
+    "text": "muốn xét học bạ thì trường xét như thế nào?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37932658195495605
+    }
+  },
+  {
+    "text": "hình thức tuyển sinh của FPT như thế nào vậy?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3947494626045227
+    }
+  },
+  {
+    "text": "quy chế tuyển sinh 2020 của FPT có xét tuyển học bạ không ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6507377624511719
+    }
+  },
+  {
+    "text": "cho em hỏi thi xong THPTQG rồi mới đăng ký được không.",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.35744717717170715
+    }
+  },
+  {
+    "text": "FPT có xét học bạ giáo dục thường xuyên không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33276331424713135
+    }
+  },
+  {
+    "text": "trường có xét học bạ không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.309722900390625
+    }
+  },
+  {
+    "text": "em tốt nghiệp cách đây 3 năm giờ còn xét học bạ được không ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.45954644680023193
+    }
+  },
+  {
+    "text": "cách thức xét tuyển như thế nào ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5407618880271912
+    }
+  },
+  {
+    "text": "cho em hỏi sự khác nhau giữa xét điểm học bạ và thi thpt với ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4625263810157776
+    }
+  },
+  {
+    "text": "điều kiện xét tuyển của trường là gì ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5696075558662415
+    }
+  },
+  {
+    "text": "xét học bạ thì lấy điểm trung bình của mấy học kỳ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5725552439689636
+    }
+  },
+  {
+    "text": "em muốn xét tuyển theo kết quả THPTQG 2020 thì như thế nào ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.36834409832954407
+    }
+  },
+  {
+    "text": "thi THPTQG đủ điểm vào trường thì có cần thi sơ tuyển nữa không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5084976553916931
+    }
+  },
+  {
+    "text": "thí sinh tự do thì có được xét học bạ không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3918209373950958
+    }
+  },
+  {
+    "text": "cách thức xét tuyển học bạ của trường FPT?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5642164349555969
+    }
+  },
+  {
+    "text": "xét tuyển học bạ vào ngành kỹ thuật phần mền thì cần điều kiện gì?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3887784481048584
+    }
+  },
+  {
+    "text": "điểu kiện để xét tuyển học bạ vào ngành cntt",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3839803636074066
+    }
+  },
+  {
+    "text": "điều kiện xét tuyển vào trường FPT là như thế nào?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4561632573604584
+    }
+  },
+  {
+    "text": "tốt nghiệp năm 2017 muốn xét tuyển học bạ có được không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.46470022201538086
+    }
+  },
+  {
+    "text": "xét tuyển học bạ rồi có cần thi THPT nữa không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.471065491437912
+    }
+  },
+  {
+    "text": "mình tốt nghiệp THPT năm 2018 có được xét tuyển học bạ không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.49072951078414917
+    }
+  },
+  {
+    "text": "xét học bạ cần những tiêu chí gì?cho em hỏi năm 2019-2020 có xét học bạ không ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5243727564811707
+    }
+  },
+  {
+    "text": "em cần tư vấn cách xét học bạ ạ",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41755053400993347
+    }
+  },
+  {
+    "text": "thi THPTQG xong vẫn xét tuyển được phải không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.42931094765663147
+    }
+  },
+  {
+    "text": "chỉ tiêu sét học bạ là bao nhiêu điểm?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5337732434272766
+    }
+  },
+  {
+    "text": "FPT xét tuyển bao nhiêu điểm ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5026460289955139
+    }
+  },
+  {
+    "text": "cho em hỏi xét học bạ thì bao nhiêu phẩy ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4545716345310211
+    }
+  },
+  {
+    "text": "cách thức xét tuyển vào trường?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.38245972990989685
+    }
+  },
+  {
+    "text": "mình muốn hỏi cách thức xét tuyển vô trường là sao ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4305884540081024
+    }
+  },
+  {
+    "text": "xét tuyển học bạ rồi còn có yêu cầu nào khác không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.36990657448768616
+    }
+  },
+  {
+    "text": "mình ra trường năm 2018 rồi muốn vào học có phải thi lại không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3262827396392822
+    }
+  },
+  {
+    "text": "ngành thiết kế đồ họa xét tuyển như thế nào?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6326506733894348
+    }
+  },
+  {
+    "text": "tốt nghiệp lớp 12 năm 2017 thì đăng ký hồ sơ được không ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4509284198284149
+    }
+  },
+  {
+    "text": "em tốt nghiệp năm 2018 giờ đăng ký được không ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3602786362171173
+    }
+  },
+  {
+    "text": "cho em hỏi cách tính điểm học bạ với ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.35958123207092285
+    }
+  },
+  {
+    "text": "tôi muốn thi vào ngành QTKD thì hình thức tuyển sinh như thế nào?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6091330647468567
+    }
+  },
+  {
+    "text": "ngành quản trị kinh doanh xét tổ hợp môn nào vậy ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4958779215812683
+    }
+  },
+  {
+    "text": "ngành quản lý truyền thông đa phương tiện thì xét tuyển khối nào vậy?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5010761618614197
+    }
+  },
+  {
+    "text": "điều kiện để được tuyển thẳng ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.46920982003211975
+    }
+  },
+  {
+    "text": "điều kiện xét tuyển bao gồm những nội dung gì ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3992455303668976
+    }
+  },
+  {
+    "text": "điều kiện thuyển thẳng năm 2020 như nào ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.61175537109375
+    }
+  },
+  {
+    "text": "ngành công nghệ thông tin xét tuyển những môn nào vậy?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5803525447845459
+    }
+  },
+  {
+    "text": "cho mình hỏi có xét tuyển kì thi THPT không ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4535779356956482
+    }
+  },
+  {
+    "text": "ngành thiết kế mỹ thuật có được xét học bạ không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3831452429294586
+    }
+  },
+  {
+    "text": "xét học bạ như thế nào mới đủ điều kiện vào ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.42053183913230896
+    }
+  },
+  {
+    "text": "cho mình hỏi xét học bạ thì cách tính điểm như thế nào ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.335861474275589
+    }
+  },
+  {
+    "text": "mình muốn hỏi công thức tính điểm xét học bạ như thế nào ạ?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3301061987876892
+    }
+  },
+  {
+    "text": "ngoài cách xét tuyển học bạ ra còn cách xét tuyển nào khác không?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37537792325019836
+    }
+  },
+  {
+    "text": "điểm thi không đủ 21 điểm thì làm thế nào để được xét tuyển?",
+    "intent": "recruitment",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37851205468177795
+    }
+  },
+  {
+    "text": "em cần tư vấn ngành hệ thống thông tin và kĩ thuật phần mềm ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3861597776412964
+    }
+  },
+  {
+    "text": "em cần tư vấn ngành quản trị kinh doanh, kinh tế quốc tế và ngôn ngữ nhật ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5359607338905334
+    }
+  },
+  {
+    "text": "em muốn được tư vấn ngành ngôn ngữ nhật ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5799012184143066
+    }
+  },
+  {
+    "text": "em muốn tư vấn thiết kế đồ họa",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.38041818141937256
+    }
+  },
+  {
+    "text": "em muốn được tư vấn ngành thiết kế đồ họa ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3936918079853058
+    }
+  },
+  {
+    "text": "em muốn được tư vấn ngành công nghệ thông tin ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.45206692814826965
+    }
+  },
+  {
+    "text": "cho em hỏi là trường FPT có ngành thiết kế đồ họa không ạ???",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3420129716396332
+    }
+  },
+  {
+    "text": "cho em hỏi có ngành truyền thông đa phương tiện không ạ??",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33995574712753296
+    }
+  },
+  {
+    "text": "FPT có ngành thiết kế đồ họa không ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4991230368614197
+    }
+  },
+  {
+    "text": "em muốn hỏi về thông tin ngành marketing.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4339725077152252
+    }
+  },
+  {
+    "text": "ad cho em hỏi ngành ngôn ngữ nhật là học về gì thế?",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3530731201171875
+    }
+  },
+  {
+    "text": "ngành ngôn ngữ anh ở trường mình đào tạo những gì ạ?",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4353192150592804
+    }
+  },
+  {
+    "text": "có thể tư vấn cho em về chuyên ngành tiếng hàn không ạ?",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.42017436027526855
+    }
+  },
+  {
+    "text": "cho em hỏi bên trường mình có ngành khoa học máy tính không ạ?",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.31034350395202637
+    }
+  },
+  {
+    "text": "mã ngành cntt là gì vậy ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33090803027153015
+    }
+  },
+  {
+    "text": "cho em hỏi về thông tin ngành QTKD",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.36253634095191956
+    }
+  },
+  {
+    "text": "ngành KHMT không có nữa ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4733215570449829
+    }
+  },
+  {
+    "text": "trường có đào tạo ngành tâm lý học không",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4209522604942322
+    }
+  },
+  {
+    "text": "Có ngành quản trị nhân sự không ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6348081231117249
+    }
+  },
+  {
+    "text": "ad có thể tư vấn giúp em về ngành QTKS không ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.43544554710388184
+    }
+  },
+  {
+    "text": "cho em hỏi về ngành quản trị truyền thông đa phương tiện ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3352394104003906
+    }
+  },
+  {
+    "text": "chị cho em hỏi về thông tin ngành kinh doanh quốc tế với ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40182867646217346
+    }
+  },
+  {
+    "text": "em đang muốn theo học ngành an toàn thông tin, tư vấn giúp em với ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4217911660671234
+    }
+  },
+  {
+    "text": "cho em hỏi trường có ngành quản trị du lịch và lữ hành không ạ?",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3621056377887726
+    }
+  },
+  {
+    "text": "em muốn biết thông tin chuyên ngành quản trị dịch vụ du lịch và lữ hành",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40194186568260193
+    }
+  },
+  {
+    "text": "em muốn tư vấn về các ngành học của trường mình ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41383570432662964
+    }
+  },
+  {
+    "text": "iot là học về cái gì vậy ạ.",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.486152708530426
+    }
+  },
+  {
+    "text": "cho em hỏi về ngành trí tuệ nhân tạo là học gì vậy ạ",
+    "intent": "info_major",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.32996541261672974
+    }
+  },
+  {
+    "text": "cảm ơn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5225251913070679
+    }
+  },
+  {
+    "text": "cám ơn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5225251913070679
+    }
+  },
+  {
+    "text": "xin cám ơn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5076293349266052
+    }
+  },
+  {
+    "text": "cảm ơn bạn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5143253207206726
+    }
+  },
+  {
+    "text": "cảm ơn bạn rất nhiều",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5813739895820618
+    }
+  },
+  {
+    "text": "chân thành cảm ơn bạn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6074877977371216
+    }
+  },
+  {
+    "text": "cảm ơn sự giúp đỡ của bạn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6292087435722351
+    }
+  },
+  {
+    "text": "cảm ơn bot đã giúp tôi",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9589489102363586
+    }
+  },
+  {
+    "text": "mày thật tốt bụng",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.28241002559661865
+    }
+  },
+  {
+    "text": "cám ơn mày rất nhiều",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4718462824821472
+    }
+  },
+  {
+    "text": "thanks",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.695774495601654
+    }
+  },
+  {
+    "text": "thank you",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6689460873603821
+    }
+  },
+  {
+    "text": "thank you so much.",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.41797149181365967
+    }
+  },
+  {
+    "text": "rất cảm ơn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5338988900184631
+    }
+  },
+  {
+    "text": "bạn thật tuyệt vời",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3738029897212982
+    }
+  },
+  {
+    "text": "thật lòng cảm ơn bạn.",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5124557614326477
+    }
+  },
+  {
+    "text": "thật sự rất cám ơn bạn",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3720308542251587
+    }
+  },
+  {
+    "text": "bạn thật giỏi",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.45670682191848755
+    }
+  },
+  {
+    "text": "cám ơn nhé",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6556282639503479
+    }
+  },
+  {
+    "text": "cám ơn bot nha",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9826052188873291
+    }
+  },
+  {
+    "text": "cám ơn bot nhiều nhiều",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8960511088371277
+    }
+  },
+  {
+    "text": "cám ơn mày nhá bot",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9495923519134521
+    }
+  },
+  {
+    "text": "cảm ơn bạn nhá",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6147534847259521
+    }
+  },
+  {
+    "text": "cảm ơn vì tất cả",
+    "intent": "thanks",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3228893578052521
+    }
+  },
+  {
+    "text": "sao mày ngu thế?",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.28640055656433105
+    }
+  },
+  {
+    "text": "sai rồi",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.4253480136394501
+    }
+  },
+  {
+    "text": "ai lại trả lời thế bao giờ",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5222782492637634
+    }
+  },
+  {
+    "text": "Nói với mày bực mình thật đấy",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3151140511035919
+    }
+  },
+  {
+    "text": "Mày nói cái gì vậy?",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4918171167373657
+    }
+  },
+  {
+    "text": "Mày trả lời sai rồi.",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.463275283575058
+    }
+  },
+  {
+    "text": "Sao trả lời chậm như rùa thế.",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.40710195899009705
+    }
+  },
+  {
+    "text": "Lâu quá.",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9090588688850403
+    }
+  },
+  {
+    "text": "Bot ngu thế?",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9742193222045898
+    }
+  },
+  {
+    "text": "trả lời sai rồi",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.27940329909324646
+    }
+  },
+  {
+    "text": "không phải",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9106380343437195
+    }
+  },
+  {
+    "text": "không đúng",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9163975715637207
+    }
+  },
+  {
+    "text": "ngu vậy",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5405551195144653
+    }
+  },
+  {
+    "text": "dễ thế cũng trả lời sai",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.28814980387687683
+    }
+  },
+  {
+    "text": "không đúng rồi",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7277383208274841
+    }
+  },
+  {
+    "text": "không phải câu trả lời này",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4305296838283539
+    }
+  },
+  {
+    "text": "sai bét rồi",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.352104514837265
+    }
+  },
+  {
+    "text": "trả lời cái gì vậy",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2690127491950989
+    }
+  },
+  {
+    "text": "không hiểu",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.9835694432258606
+    }
+  },
+  {
+    "text": "ngu không tả nổi",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6575565934181213
+    }
+  },
+  {
+    "text": "không phải thế này",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.46292901039123535
+    }
+  },
+  {
+    "text": "mày nói linh tinh rồi",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6095592975616455
+    }
+  },
+  {
+    "text": "ngu thế thì ai chịu được",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3749087154865265
+    }
+  },
+  {
+    "text": "ngu như chó",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6634712219238281
+    }
+  },
+  {
+    "text": "mày có biết là mày ngu lắm không",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.43359440565109253
+    }
+  },
+  {
+    "text": "ngu lắm luôn",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5686848759651184
+    }
+  },
+  {
+    "text": "ngu thế không biết được",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4441302418708801
+    }
+  },
+  {
+    "text": "ngu vừa vừa thôi chứ",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5923349857330322
+    }
+  },
+  {
+    "text": "sao ngu vậy",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.3704879581928253
+    }
+  },
+  {
+    "text": "ôi trời ngu quá cơ",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.35900741815567017
+    }
+  },
+  {
+    "text": "bot ai làm mà ngu thế",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9691640138626099
+    }
+  },
+  {
+    "text": "bot gì mà ngu vậy",
+    "intent": "complain",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9711371660232544
+    }
+  },
+  {
+    "text": "tạm biệt nhé",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.36508709192276
+    }
+  },
+  {
+    "text": "tạm biệt",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.34244248270988464
+    }
+  },
+  {
+    "text": "hẹn gặp lại bạn nhé",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5068563222885132
+    }
+  },
+  {
+    "text": "mai gặp lại",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6478962302207947
+    }
+  },
+  {
+    "text": "mình đi đây",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.30484724044799805
+    }
+  },
+  {
+    "text": "see you again",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9741597175598145
+    }
+  },
+  {
+    "text": "bye bye",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.9996382594108582
+    }
+  },
+  {
+    "text": "hẹn bạn vào lần sau nhé",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3952043950557709
+    }
+  },
+  {
+    "text": "lần sau mình quay lại",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3564458191394806
+    }
+  },
+  {
+    "text": "chào tạm biệt bạn nhé",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3671848773956299
+    }
+  },
+  {
+    "text": "chào tạm biệt",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.34722700715065
+    }
+  },
+  {
+    "text": "bái bai nhá",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.35941049456596375
+    }
+  },
+  {
+    "text": "hẹn gặp lại nhá",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4460795223712921
+    }
+  },
+  {
+    "text": "có gì gặp lại sau",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5169485807418823
+    }
+  },
+  {
+    "text": "có gì tao hỏi tiếp",
+    "intent": "bye_bye",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.578299343585968
+    }
+  },
+  {
+    "text": "nhà trường có sắp xếp công việc cho sinh viên sau khi tốt nghiệp không",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2867474853992462
+    }
+  },
+  {
+    "text": "cho em hỏi học xong có việc làm luôn không ạ?",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3103543519973755
+    }
+  },
+  {
+    "text": "cho em hỏi học ra là được FPT nhận làm hay sao vậy ạ?",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5323460698127747
+    }
+  },
+  {
+    "text": "sau khi tốt nghiệp nhà trường có đảm bảo sinh viên có việc làm ổn định không ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3714245557785034
+    }
+  },
+  {
+    "text": "học xong có việc làm luôn không ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.32661372423171997
+    }
+  },
+  {
+    "text": "cho em hỏi về cơ hội việc làm tại FPT",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4721974730491638
+    }
+  },
+  {
+    "text": "có được làm việc ở fpt sau khi tốt nghiệp không ạ?",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4436280429363251
+    }
+  },
+  {
+    "text": "cơ hội việc làm",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2176395207643509
+    }
+  },
+  {
+    "text": "việc làm",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.43275219202041626
+    }
+  },
+  {
+    "text": "có được làm việc tại FPT sau khi học xong?",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5498475432395935
+    }
+  },
+  {
+    "text": "học xong thì cơ hội việc làm của mình như thế nào ạ?",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.32328900694847107
+    }
+  },
+  {
+    "text": "em muốn hỏi về cơ hội việc làm ạ?",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.38292211294174194
+    }
+  },
+  {
+    "text": "mình có cơ hội đi làm ngay sau khi tốt nghiệp không ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.28585782647132874
+    }
+  },
+  {
+    "text": "cho em hỏi về việc làm sau khi học xong ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4206092953681946
+    }
+  },
+  {
+    "text": "mình có được trường tìm việc cho sau khi tốt nghiệp không ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.35603514313697815
+    }
+  },
+  {
+    "text": "ê cho tao hỏi về cơ hội việc làm với",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.531158447265625
+    }
+  },
+  {
+    "text": "học xong có việc không",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.3926432728767395
+    }
+  },
+  {
+    "text": "bạn cho mình hỏi về việc làm sau khi học xong với",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4271947145462036
+    }
+  },
+  {
+    "text": "về vấn đề việc làm khi học xong ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3273046314716339
+    }
+  },
+  {
+    "text": "mình có thể có việc ngay sau khi học xong không ạ",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.28658902645111084
+    }
+  },
+  {
+    "text": "mình muốn hỏi về vấn đề việc làm của FPT",
+    "intent": "jobs",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6644445657730103
+    }
+  },
+  {
+    "text": "tôi yêu bạn",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.33287107944488525
+    }
+  },
+  {
+    "text": "yêu bạn lắm",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4274699091911316
+    }
+  },
+  {
+    "text": "yêu lắm luôn",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2852121591567993
+    }
+  },
+  {
+    "text": "yêu",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.31603893637657166
+    }
+  },
+  {
+    "text": "love",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5173642635345459
+    }
+  },
+  {
+    "text": "love you",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.8184054493904114
+    }
+  },
+  {
+    "text": "i love you",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.581102192401886
+    }
+  },
+  {
+    "text": "yêu nhiều",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.45675894618034363
+    }
+  },
+  {
+    "text": "yêu mày nhiều",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2984898090362549
+    }
+  },
+  {
+    "text": "tao thích mày",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.34678131341934204
+    }
+  },
+  {
+    "text": "yêu mày",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.2601277828216553
+    }
+  },
+  {
+    "text": "yêu mày lắm luôn",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.35166242718696594
+    }
+  },
+  {
+    "text": "quý mày",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.24167771637439728
+    }
+  },
+  {
+    "text": "tao quý mày",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7542549967765808
+    }
+  },
+  {
+    "text": "anh yêu em bot ạ",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.98798006772995
+    }
+  },
+  {
+    "text": "tao yêu mày mất rồi",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7455457448959351
+    }
+  },
+  {
+    "text": "yêu nhá",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5582735538482666
+    }
+  },
+  {
+    "text": "yêu nhau không.",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4388512074947357
+    }
+  },
+  {
+    "text": "thích mày thực sự ý",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.4286658763885498
+    }
+  },
+  {
+    "text": "yêu thế không biết",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.31154364347457886
+    }
+  },
+  {
+    "text": "bot ơi tôi yêu bạn",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9817960858345032
+    }
+  },
+  {
+    "text": "yêu bot lắm",
+    "intent": "love_bot",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9968733191490173
+    }
+  },
+  {
+    "text": "tôi muốn gặp nhân viên tư vấn",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5371877551078796
+    }
+  },
+  {
+    "text": "cho mình gặp người tư vấn với",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3372047543525696
+    }
+  },
+  {
+    "text": "mình muốn hỏi trực tiếp nhân viên tư vấn",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.47627565264701843
+    }
+  },
+  {
+    "text": "cho mình liên hệ với tư vấn viên ạ",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.49776482582092285
+    }
+  },
+  {
+    "text": "mình cần liên hệ trực tiếp với tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5086309909820557
+    }
+  },
+  {
+    "text": "tư vấn viên đâu cho mình gặp với",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.38382405042648315
+    }
+  },
+  {
+    "text": "mình có thể liên lạc với tư vấn viên không ạ?",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5182958245277405
+    }
+  },
+  {
+    "text": "cho tao gặp tư vấn viên ngay",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4001797139644623
+    }
+  },
+  {
+    "text": "tôi cần gặp trực tiếp nhân viên tư vấn",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5050644278526306
+    }
+  },
+  {
+    "text": "gặp tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.43024978041648865
+    }
+  },
+  {
+    "text": "nói chuyện với tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.578808605670929
+    }
+  },
+  {
+    "text": "mình thích nói chuyện với tư vấn viên, cho mình gặp đi",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.369671493768692
+    }
+  },
+  {
+    "text": "cho tôi gặp tư vấn viên đi bot ơi",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8680481910705566
+    }
+  },
+  {
+    "text": "cô muốn gặp tư vấn viên cháu ơi",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3760841488838196
+    }
+  },
+  {
+    "text": "chú cần gặp nhân viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6479196548461914
+    }
+  },
+  {
+    "text": "làm sao để mình có thể nói chuyện trực tiếp với người tư vấn được",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4056813418865204
+    }
+  },
+  {
+    "text": "làm sao để được nói chuyện trực tiếp với người tư vấn vậy?",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4403817057609558
+    }
+  },
+  {
+    "text": "người tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6873986124992371
+    }
+  },
+  {
+    "text": "tớ cần gặp trực tiếp tư vấn viên ý.",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3389624357223511
+    }
+  },
+  {
+    "text": "mình muốn gọi điện trực tiếp với tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3289640247821808
+    }
+  },
+  {
+    "text": "mình cần gọi cho tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4783354103565216
+    }
+  },
+  {
+    "text": "làm cách nào để nhắn tin được với tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5267404317855835
+    }
+  },
+  {
+    "text": "cho mình liên lạc với tư vấn viên đi",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5196031332015991
+    }
+  },
+  {
+    "text": "liên lạc trực tiếp đến người tư vấn",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6721930503845215
+    }
+  },
+  {
+    "text": "liên lạc với người tư vấn ạ",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6218764185905457
+    }
+  },
+  {
+    "text": "cho mình hỏi là làm sao để liên hệ được với tư vấn ạ.",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.41230303049087524
+    }
+  },
+  {
+    "text": "mình cần tư vấn viên ạ",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5097507238388062
+    }
+  },
+  {
+    "text": "mình cần nói chuyện với anh chị tư vấn ạ",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3470725417137146
+    }
+  },
+  {
+    "text": "cho mình hỏi trực tiếp anh chị tư vấn được không ạ",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.38451939821243286
+    }
+  },
+  {
+    "text": "hiện giờ mình rất muốn gặp được tư vấn viên ạ, bạn có thể giúp mình không?",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3524775207042694
+    }
+  },
+  {
+    "text": "thôi mình không thích nói chuyện với bạn nữa mình cần gặp tư vấn viên",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.42647892236709595
+    }
+  },
+  {
+    "text": "thôi tao không nói chuyện với mày cho tao gặp tư vấn viên đi",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5193297266960144
+    }
+  },
+  {
+    "text": "tao cần gặp tư vấn viên, tao đéo nói chuyện với mày",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6035211086273193
+    }
+  },
+  {
+    "text": "nói chuyện với mày cùi bỏ mẹ, cho tao gặp tư vấn viên đi",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5684864521026611
+    }
+  },
+  {
+    "text": "đéo nói chuyện với mày tao cần gặp nhân viên tư vấn",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40223032236099243
+    }
+  },
+  {
+    "text": "tao muốn được gặp mấy bà tư vấn lắm mồm",
+    "intent": "request_meet_staff",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7455808520317078
+    }
+  },
+  {
+    "text": "nhắn tin ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8219345808029175
+    }
+  },
+  {
+    "text": "mình muốn nhắn thôi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6502906084060669
+    }
+  },
+  {
+    "text": "chỉ cần nhắn tin thôi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7395151257514954
+    }
+  },
+  {
+    "text": "mình cần nhắn tin thôi ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.706337571144104
+    }
+  },
+  {
+    "text": "nhắn tin bạn ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7841907143592834
+    }
+  },
+  {
+    "text": "nhắn tin",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8973393440246582
+    }
+  },
+  {
+    "text": "nt",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8582808375358582
+    }
+  },
+  {
+    "text": "nhắn tin nhé",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8835500478744507
+    }
+  },
+  {
+    "text": "tôi muốn nhắn tin",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7907226085662842
+    }
+  },
+  {
+    "text": "nhắn tin nhá",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8835500478744507
+    }
+  },
+  {
+    "text": "mình cần nhắn tin bạn ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7025112509727478
+    }
+  },
+  {
+    "text": "bác cần nhắn tin cháu ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5776703357696533
+    }
+  },
+  {
+    "text": "em cần nhắn ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6836827993392944
+    }
+  },
+  {
+    "text": "tao muốn nhắn tin nhé",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6994737386703491
+    }
+  },
+  {
+    "text": "nhắn tin thôi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7995702028274536
+    }
+  },
+  {
+    "text": "nhắn",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9167618751525879
+    }
+  },
+  {
+    "text": "nhắn tin nhé bot",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8193287253379822
+    }
+  },
+  {
+    "text": "nhắn tin là được rồi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7594815492630005
+    }
+  },
+  {
+    "text": "thôi nhắn tin cũng được",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6361744403839111
+    }
+  },
+  {
+    "text": "cần nhắn tin bạn ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7793864607810974
+    }
+  },
+  {
+    "text": "tin nhắn",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.897150456905365
+    }
+  },
+  {
+    "text": "nhắn tin là ok rồi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8481549620628357
+    }
+  },
+  {
+    "text": "thôi nhắn tin đi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7303615808486938
+    }
+  },
+  {
+    "text": "chỉ cần nhắn thôi là được rồi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6675249934196472
+    }
+  },
+  {
+    "text": "thôi nhắn tin đi cho nhanh",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6892725825309753
+    }
+  },
+  {
+    "text": "bố muốn nhắn tin nhé",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7442675232887268
+    }
+  },
+  {
+    "text": "mình cũng chỉ cần nhắn tin thôi, không cần gọi",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5536503195762634
+    }
+  },
+  {
+    "text": "nt đi bạn",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6471039652824402
+    }
+  },
+  {
+    "text": "nt ạ",
+    "intent": "message_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6941713094711304
+    }
+  },
+  {
+    "text": "gọi gọi",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7634302973747253
+    }
+  },
+  {
+    "text": "gọi đê",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.3675415515899658
+    }
+  },
+  {
+    "text": "tôi muốn gọi ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.26953577995300293
+    }
+  },
+  {
+    "text": "gọi điện đê",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40563055872917175
+    }
+  },
+  {
+    "text": "mình muốn gọi điện ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3302602469921112
+    }
+  },
+  {
+    "text": "tớ cần gọi điện nhé",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6514147520065308
+    }
+  },
+  {
+    "text": "gọi điện đi nào",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.620769739151001
+    }
+  },
+  {
+    "text": "em thích được gọi điện ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3212580978870392
+    }
+  },
+  {
+    "text": "gọi điện đi ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.33624741435050964
+    }
+  },
+  {
+    "text": "mình cần gọi điện trực tiếp nhé",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4926030933856964
+    }
+  },
+  {
+    "text": "gọi điện cháu ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.35773468017578125
+    }
+  },
+  {
+    "text": "gọi điện bot ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9809838533401489
+    }
+  },
+  {
+    "text": "tao muốn được gọi điện nhé mày",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.49283403158187866
+    }
+  },
+  {
+    "text": "tao muốn liên lạc bằng cách gọi điện",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3872677683830261
+    }
+  },
+  {
+    "text": "gọi điện đi nói cho rõ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.563279926776886
+    }
+  },
+  {
+    "text": "gọi điện ngay và luôn",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6738766431808472
+    }
+  },
+  {
+    "text": "tôi cần được gọi điện bot ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9006981253623962
+    }
+  },
+  {
+    "text": "mình rất muốn được gọi điện",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3661508858203888
+    }
+  },
+  {
+    "text": "cần lắm một cuộc gọi ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4203362762928009
+    }
+  },
+  {
+    "text": "gọi điện bot ơi",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9777678847312927
+    }
+  },
+  {
+    "text": "gọi điện",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.41303178668022156
+    }
+  },
+  {
+    "text": "gọi",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7298232913017273
+    }
+  },
+  {
+    "text": "gọi điện ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40563055872917175
+    }
+  },
+  {
+    "text": "goi dien",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.34910404682159424
+    }
+  },
+  {
+    "text": "goi",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9030934572219849
+    }
+  },
+  {
+    "text": "goi dien di a",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.38460010290145874
+    }
+  },
+  {
+    "text": "gọi điện đi cho rõ ạ",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4183897078037262
+    }
+  },
+  {
+    "text": "gọi điện đi nhé bot",
+    "intent": "call_method",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9354947805404663
+    }
+  },
+  {
+    "text": "Trịnh quang huy",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.31226447224617004
+    }
+  },
+  {
+    "text": "tên mình là đặng thu huyền",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.41931265592575073
+    }
+  },
+  {
+    "text": "vũ minh hiếu",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8378980159759521
+    }
+  },
+  {
+    "text": "tên nguyễn ngọc quang đăng ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5044516324996948
+    }
+  },
+  {
+    "text": "trần thu huệ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.38943687081336975
+    }
+  },
+  {
+    "text": "là Trần tuệ nhi ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.545807421207428
+    }
+  },
+  {
+    "text": "họ và tên của tôi là: trần đức bo ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6825746893882751
+    }
+  },
+  {
+    "text": "là ngô thanh vân ạ.",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.6281317472457886
+    }
+  },
+  {
+    "text": "em là Đăng Quang Bách ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.46849626302719116
+    }
+  },
+  {
+    "text": "tên Vũ Trung Thành",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5277303457260132
+    }
+  },
+  {
+    "text": "em tên Vũ Minh Đức ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4447149932384491
+    }
+  },
+  {
+    "text": "là Trấn thành",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7419635653495789
+    }
+  },
+  {
+    "text": "ngô thị thương",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4620562195777893
+    }
+  },
+  {
+    "text": "trịnh thị lan anh",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.392402708530426
+    }
+  },
+  {
+    "text": "trịnh văn vang",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.30049586296081543
+    }
+  },
+  {
+    "text": "em là nguyễn minh hằng ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.34739530086517334
+    }
+  },
+  {
+    "text": "tớ là phạm ngọc long",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.37634193897247314
+    }
+  },
+  {
+    "text": "mình là nguyễn văn trung",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5987625122070312
+    }
+  },
+  {
+    "text": "tao tên đào văn thắng",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.471701055765152
+    }
+  },
+  {
+    "text": "tao tên Bùi Kim Quyên",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8635151982307434
+    }
+  },
+  {
+    "text": "tôi là Võ An Phước Thiện",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6996151804924011
+    }
+  },
+  {
+    "text": "bố mày tên Phạm Nguyễn Quỳnh Trân",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6073751449584961
+    }
+  },
+  {
+    "text": "em là Dương Hoài Phương",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7884813547134399
+    }
+  },
+  {
+    "text": "tôi là Phan Vinh Bính",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.777683675289154
+    }
+  },
+  {
+    "text": "dạ em tên Võ Minh Thư",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4980989694595337
+    }
+  },
+  {
+    "text": "Phan Huỳnh Ngọc Dung",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5366957783699036
+    }
+  },
+  {
+    "text": "Nguyễn Vân Anh",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5373967885971069
+    }
+  },
+  {
+    "text": "Nguyễn Thế Vinh",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.44498714804649353
+    }
+  },
+  {
+    "text": "Nguyen Thi Thanh Bích",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5209903717041016
+    }
+  },
+  {
+    "text": "Lê Minh Vương",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9643773436546326
+    }
+  },
+  {
+    "text": "nguyễn thiện toàn",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9406695365905762
+    }
+  },
+  {
+    "text": "Trương Gia Mẫn",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9431069493293762
+    }
+  },
+  {
+    "text": "Vương Thu Hiền",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5222906470298767
+    }
+  },
+  {
+    "text": "Châu Thị Kim Anh",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5388633012771606
+    }
+  },
+  {
+    "text": "Trần NGọc Trang",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.31041499972343445
+    }
+  },
+  {
+    "text": "huynh minh",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8740225434303284
+    }
+  },
+  {
+    "text": "Cao Minh Hiền",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8063939213752747
+    }
+  },
+  {
+    "text": "Ta thị thanh tuyen",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4878377318382263
+    }
+  },
+  {
+    "text": "Võ Thị Tuyết Vân",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4913262128829956
+    }
+  },
+  {
+    "text": "Mai Khánh Vân",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.9031596779823303
+    }
+  },
+  {
+    "text": "Đoàn Thị Mỹ Xuân",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6732957363128662
+    }
+  },
+  {
+    "text": "Doãn Phan Trung Hải",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7523044943809509
+    }
+  },
+  {
+    "text": "Lâm Ngọc Linh",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.982791543006897
+    }
+  },
+  {
+    "text": "Nguyễn Minh Châu",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8674616813659668
+    }
+  },
+  {
+    "text": "Nguyễn Thạch Giang",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7224993109703064
+    }
+  },
+  {
+    "text": "Võ tường duy",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.40251803398132324
+    }
+  },
+  {
+    "text": "Trần Thị Kim  Ngân",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5945068001747131
+    }
+  },
+  {
+    "text": "Huỳnh Kim Hoàng",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7981614470481873
+    }
+  },
+  {
+    "text": "Nguyễn Phước Uyên Thư",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6891677379608154
+    }
+  },
+  {
+    "text": "Lê Trung Kiên nhá",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.679841160774231
+    }
+  },
+  {
+    "text": "Kiều Hồng Trang nhé bạn",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.36977601051330566
+    }
+  },
+  {
+    "text": "là: le thi hong khanh ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4900553524494171
+    }
+  },
+  {
+    "text": "họ tên của mình là: Phạm Văn Đồng ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6544538736343384
+    }
+  },
+  {
+    "text": "mình tên là lê thị lệ thủy",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5600396394729614
+    }
+  },
+  {
+    "text": "Trương Yến Thanh nhé",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5085839629173279
+    }
+  },
+  {
+    "text": "đây nhé tên của tôi ngô thanh hà",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.480029821395874
+    }
+  },
+  {
+    "text": "Lê Hạ Lam",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.989924430847168
+    }
+  },
+  {
+    "text": "mình tên trịnh thăng bình ạ",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.40797674655914307
+    }
+  },
+  {
+    "text": "tôi tên nguyễn trung thành nhá",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7276785373687744
+    }
+  },
+  {
+    "text": "đàm vĩnh hưng",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.7920205593109131
+    }
+  },
+  {
+    "text": "vũ trung thực",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3368143141269684
+    }
+  },
+  {
+    "text": "nguyễn ngọc ngạn",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.9306692481040955
+    }
+  },
+  {
+    "text": "trần kim liên",
+    "intent": "user_name",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.882327675819397
+    }
+  },
+  {
+    "text": "8/7/1991",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "25/1/1989",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "28/4/1987",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "30/5/1981",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "28/8/1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "đây là ngày sinh của mình 21/10/1994",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6178414821624756
+    }
+  },
+  {
+    "text": "ngày sinh của mình đây: 10/10/1996",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6241952180862427
+    }
+  },
+  {
+    "text": "mình sinh ngày 22/1/1993 ạ",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.43327218294143677
+    }
+  },
+  {
+    "text": "tôi có ngày sinh là 6/9/1993",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.47606608271598816
+    }
+  },
+  {
+    "text": "tớ đẻ ngày 3/8/1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5445163249969482
+    }
+  },
+  {
+    "text": "đây ạ: 10/12/1988, ngày sinh của mình đó",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6262944340705872
+    }
+  },
+  {
+    "text": "tao sinh ngày 5/12/1994",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.723244309425354
+    }
+  },
+  {
+    "text": "em sinh 21/09/1993",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4082709848880768
+    }
+  },
+  {
+    "text": "3/8/1991 đây ạ",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.37052562832832336
+    }
+  },
+  {
+    "text": "9/5/1990 ngày sinh mình đây",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.32517683506011963
+    }
+  },
+  {
+    "text": "5/10/1996 ngày tháng năm sinh của mình đây",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4176957607269287
+    }
+  },
+  {
+    "text": "ngày sinh của tao đây mày 26/2/1985",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8015276193618774
+    }
+  },
+  {
+    "text": "đây nhé 4/10/1989",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4497760236263275
+    }
+  },
+  {
+    "text": "tao sinh 25/05/92",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.788752555847168
+    }
+  },
+  {
+    "text": "mình gửi bạn ngày sinh 28/01/1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4947804808616638
+    }
+  },
+  {
+    "text": "đây là ngày sinh tô ạ 8/10/1981",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5255734920501709
+    }
+  },
+  {
+    "text": "tôi sinh ngày 18/09/1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4244046211242676
+    }
+  },
+  {
+    "text": "17/03/1992 đây ngày sinh của tao đây",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7263427376747131
+    }
+  },
+  {
+    "text": "22/7/1993 ạ",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4442290961742401
+    }
+  },
+  {
+    "text": "24/9/1992 đó nhé",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.31714537739753723
+    }
+  },
+  {
+    "text": "2/10/1997",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "9/7/1991",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "1/11/1994",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "22/12/1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "29/09/1994",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "17/01/1993",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "22-12-1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "13-04-1993",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "10-4-1993",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "12-1-1992",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "28-8-1994",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4211116433143616
+    }
+  },
+  {
+    "text": "ngày sinh của mình là 17/08/1899",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.623435914516449
+    }
+  },
+  {
+    "text": "tôi sinh ngày 16/091898",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3522154688835144
+    }
+  },
+  {
+    "text": "mình sinh ngày 16/08/1898",
+    "intent": "user_birth",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3860553801059723
+    }
+  },
+  {
+    "text": "đây là số của mình ạ 0914162689",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7012608051300049
+    }
+  },
+  {
+    "text": "sô mình đây ạ 0977557349",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5195367932319641
+    }
+  },
+  {
+    "text": "đây là sô mình 0974552551",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.49313366413116455
+    }
+  },
+  {
+    "text": "sô của mình 0972544485",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7180020809173584
+    }
+  },
+  {
+    "text": "tôi gửi bạn nhé 0975236626",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4203185439109802
+    }
+  },
+  {
+    "text": "số điện thoại của tôi đây 0323424929",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5418754816055298
+    }
+  },
+  {
+    "text": "gửi cho bạn số của mình ạ 0334353634",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7008970975875854
+    }
+  },
+  {
+    "text": "đây nhé 0342316171",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.2759946286678314
+    }
+  },
+  {
+    "text": "sô đây 0351252352 ạ",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.489849716424942
+    }
+  },
+  {
+    "text": "sô tao này 0365464747",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6987444758415222
+    }
+  },
+  {
+    "text": "số điện thoại đây 0372134634",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3323678970336914
+    }
+  },
+  {
+    "text": "số đây nhá 0394537436",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3486402630805969
+    }
+  },
+  {
+    "text": "0832423534 sô đây nhá",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3402923345565796
+    }
+  },
+  {
+    "text": "0847869987 đây",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.543910026550293
+    }
+  },
+  {
+    "text": "0851342451 đây nè",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5120699405670166
+    }
+  },
+  {
+    "text": "0811346322 mình gửi bạn",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.29708051681518555
+    }
+  },
+  {
+    "text": "sô của bố mày đây 0822234443",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7775105834007263
+    }
+  },
+  {
+    "text": "đây là số của tôi 0561342453",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7156184911727905
+    }
+  },
+  {
+    "text": "số của mình đây bạn lưu vào đi 0583521142",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.720820426940918
+    }
+  },
+  {
+    "text": "bạn lưu số của mình vào nhá 0592342323",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6756742596626282
+    }
+  },
+  {
+    "text": "0592351323",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0593453463",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0761235436",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0762365442",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0792468976",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0792464563",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0792367665",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0702364435",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "0293828193",
+    "intent": "user_phone_number",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6303578615188599
+    }
+  },
+  {
+    "text": "THPT Bắc Lương Sơn",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5371580719947815
+    }
+  },
+  {
+    "text": "THPT Bắc Thăng Long",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5269485116004944
+    }
+  },
+  {
+    "text": "THPT Bất Bạt",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.612668514251709
+    }
+  },
+  {
+    "text": "THPT Cao Bá Quát-Gia Lâm",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.5096063017845154
+    }
+  },
+  {
+    "text": "THPT Cao Bá Quát-Quốc Oai",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4932709336280823
+    }
+  },
+  {
+    "text": "THPT Cầu Giấy",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.8615753650665283
+    }
+  },
+  {
+    "text": "THPT Chu Văn An",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.8655606508255005
+    }
+  },
+  {
+    "text": "THPT Chuyên Đại học Sư phạm",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.504779577255249
+    }
+  },
+  {
+    "text": "THPT Chuyên Hà Nội-Amsterdam",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.7995233535766602
+    }
+  },
+  {
+    "text": "thpt Chuyên KHTN",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5551238059997559
+    }
+  },
+  {
+    "text": "thpt Chuyên Nguyễn Huệ",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7594770789146423
+    }
+  },
+  {
+    "text": "thpt Chuyên Ngữ ĐH Ngoại ngữ",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.3544319272041321
+    }
+  },
+  {
+    "text": "thpt Chúc Động",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.42079052329063416
+    }
+  },
+  {
+    "text": "thpt Chương Mỹ A",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.9264443516731262
+    }
+  },
+  {
+    "text": "trường THPT Chương Mỹ B ạ",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5241038799285889
+    }
+  },
+  {
+    "text": "em học trường THPT Cổ Loa",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7539255619049072
+    }
+  },
+  {
+    "text": "mình học ở THPT Dương Xá",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5692560076713562
+    }
+  },
+  {
+    "text": "thpt Đa Phúc là trrường của mình ạ",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.7760483622550964
+    }
+  },
+  {
+    "text": "trường của mình là thpt Đại Cường",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6383962631225586
+    }
+  },
+  {
+    "text": "trường mình đây thpt Đại Mỗ",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5446138978004456
+    }
+  },
+  {
+    "text": "THPT Đan Phượng là trường mình nhé",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4308866560459137
+    }
+  },
+  {
+    "text": "THPT Đoàn Kết-Hai Bà Trưng",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.4746531546115875
+    }
+  },
+  {
+    "text": "thpt Đông Anh là trường mình",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5221021175384521
+    }
+  },
+  {
+    "text": "THPT Đồng Quan là trường mình đó",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.569361686706543
+    }
+  },
+  {
+    "text": "trường mình nè THPT Đống Đa",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6984814405441284
+    }
+  },
+  {
+    "text": "THPT Hai Bà Trưng-Thạch Thất",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.5135242938995361
+    }
+  },
+  {
+    "text": "THPT Hoài Đức A",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.6943972110748291
+    }
+  },
+  {
+    "text": "THPT Hoài Đức B",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6497290134429932
+    }
+  },
+  {
+    "text": "THPT Hoàng Cầu",
+    "intent": "user_school",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.6043282747268677
+    }
+  }
+]

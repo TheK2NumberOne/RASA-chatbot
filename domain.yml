@@ -1,0 +1,160 @@
+session_config:
+  session_expiration_time: 5  # value in minutes, 0 means infinitely long
+  carry_over_slots_to_new_session: true  # set to false to forget slots between sessions
+intents:
+  - greeting
+  - location
+  - tuition
+  - english
+  - ask_func_bot
+  - advisory
+  - recruitment
+  - info_major
+  - thanks
+  - complain
+  - bye_bye
+  - jobs
+  - love_bot 
+  - request_meet_staff
+  - message_method
+  - call_method
+  - user_name
+  - user_birth
+  - user_phone_number
+  - user_school
+#  - confirm
+  
+entities:
+  - certificate
+  - obligatory
+  - major
+  - name
+  - birth
+  - phone_number
+  - school
+  - call 
+  - message
+#  - check 
+
+slots:
+  name:
+    type: unfeaturized
+    auto_fill: False
+  phone_number:
+    type: unfeaturized
+    auto_fill: False
+  birth:
+    type: unfeaturized
+    auto_fill: False
+  school:
+    type: unfeaturized
+    auto_fill: False
+
+responses:
+  utter_greet:
+  - text: "xin chào rất vui khi được gặp bạn, mình có thể giúp gì cho bạn."
+  - text: "xin chào, mình là bot acula mình có thể giúp gì được cho bạn ạ!!!"
+  utter_location:
+  - text: "Hiện tại đại học FPT có 4 cơ sở tại các địa chỉ như sau:\n\
+           - tại Hà nội\n\
+             Đại học FPT Hà Nội tọa lạc tại Khu Công nghệ cao Hòa Lạc, Km29 Đại lộ Thăng Long, huyện Thạch Thất, Hà Nội\n\
+           - tại tp.HCM\n\
+             Đại học FPT TP.HCM tọa lạc tại Lô E2a-7, Đường D1 Khu Công nghệ cao, P.Long Thạnh Mỹ, Q.9, TP.Hồ Chí Minh.\n\
+           - tại Đà nẵng\n\
+             Đại học FPT Đà Nẵng hiện đặt tại 137 Nguyễn Thị Thập, Quận Liên Chiểu. Dự kiến, Trường sẽ được xây dựng tại Khu đô thị công nghệ FPT.\n\
+           - tại Cần thơ\n
+             Tại 600, đường Nguyễn Văn Cừ (nối dài), phường An Bình, quận Ninh Kiều, TP. Cần Thơ\n"
+
+  utter_tuition:
+  - text: "Học phí chuyên ngành CNTT, Kinh tế, Ngôn ngữ... sẽ là 17,710,000 VNĐ/học kỳ,
+nộp vào đầu mỗi học kỳ. Sinh viên chuyên ngành du lịch, khách sạn nhập học
+năm 2020 được ưu đãi 30% học phí cho cả khoá học."
+  utter_english: 
+  - text: "Mục đích của Chương trình tiếng Anh dự bị là trang bị kỹ năng tiếng Anh cho sinh viên đủ trình độ để theo học học kỳ chuyên ngành. Nếu bạn có chứng chỉ IELTS (Học thuật) từ 6.0 và TOEFL iBT từ 80 hoặc quy đổi tương đương còn hiệu lực tính đến thời điểm nhập học, bạn sẽ được miễn tham gia chương trình tiếng Anh dự bị và vào thẳng học kỳ chuyên ngành ngay từ năm đầu tiên. Như vậy, bạn sẽ sớm tốt nghiệp và đi làm."
+  utter_ask_func_bot:
+  - text: "mình làm được rất nhiều việc như giải đáp thắc mắc tuyển sinh, học bổng, tiếng anh."
+  utter_advisory: 
+  - text: "bạn cần mình giải đáp gì nào, hãy hỏi đi đừng ngại"
+  - text: "chần chừ gì nữa, lao tới hỏi mình đi thôi"
+  utter_recruitment:
+  - text: "Hiện tại FPT đang có 4 hình thức tuyển sinh gồm:\n\
+            - tuyển sinh học bạ\n\
+            - tuyển sinh THPT\n\
+            - tuyển thẳng\n\
+            - tuyển ưu tiên.\n\
+          Bạn muốn hỏi về hình thức tuyển sinh nào?"
+  utter_info_major:
+  - text: "vứt cho cái ảnh tự đọc nhé, chứ thông tin nhiều lắm kể không hết :))"
+  utter_thanks:
+  - text: "Dạ, không có gì đâu ạ. Giúp được bạn là vinh hạnh của mình. 😍"
+  - text: "Không có gì đâu ạ, giúp được bạn mình vui lắm. 😍"
+  utter_complain:
+  - text: "Mình rất xin lỗi bạn. Mình sẽ cố gắng hoàn thiện trong thời gian sắp tới 😢"
+  - text: "Dạ mình xin lỗi bạn mình sẽ cố hoàn thiện hơn ạ. 😢"
+  utter_after_complain:
+  - text: Bạn có muốn gặp trực tiếp tư vấn viên không ạ?
+  utter_bye_bye:
+  - text: "Dạ. chào bạn và hẹn gặp lại bạn nhé 😄"
+  - text: "Hẹn gặp lại bạn nhé. Chúc bạn một ngày tốt lành!! 😄"
+  utter_jobs:
+  - text: "cơ hội việc làm chưa có câu trả lời :))" 
+  utter_love_bot:
+  - text: "cám ơn bạn, nhưng yêu đương là dở rồi!!!"
+  utter_request_meet_staff:
+  - text: "Nếu bạn muốn gặp tư vấn viên thì bạn muốn nhắn tin trực tiếp tại đây
+	       hay bạn muốn tư vấn viên gọi điện liên hệ với bạn ạ??"
+  utter_request_info_user:
+  - text: "Dạ, vậy bạn cho mình xin vài thông tin từ bạn để tư vấn viên dễ dàng liên lạc với bạn hơn nhé."
+  utter_message_staff:
+  - text: Dạ vâng, sẽ có nhân viên tư vấn nhắn tin cho bạn sớm ạ!!
+  utter_ask_name:
+  - text: "Họ tên bạn là gì vậy ạ??\n\
+          VD: tên mình là Trịnh Quang Huy"
+  utter_ask_phone_number:
+  - text: "Bạn cho mình xin số điện thoại với ạ?\n\
+          VD: là 0858532357"
+  utter_ask_birth:
+  - text: "Thế ngày sinh của bạn là gì?\n\
+           VD:ngày sinh của mình là 16/09/1999"
+  utter_ask_school:
+  - text: "Nốt câu cuối nhá ^^. Bạn học trường THPT nào vậy ạ??\n\
+          VD: THPT A duy tiên"
+  utter_slots_values: 
+  - text: "Đây là thông tin bạn đã cũng câp cho mình ạ.\n\
+          Họ và Tên: {name}\n\
+          Ngày sinh: {birth}\n\
+          Số điện thoại: {phone_number}\n\
+          Trường học: {school}\n"
+  utter_done:
+  - text: "thông tin đã được lưu lại. Cám ơn bạn nhé!!"
+  utter_fallback:
+  - text: "xin lỗi nhé bạn nói cái khỉ gì vậy mình đéo hiểu gì\n\
+           Bạn nói lại xem nào!!!"
+actions: 
+  - utter_greet
+  - utter_location
+  - utter_tuition
+  - utter_fallback 
+  - utter_english
+  - utter_ask_func_bot
+  - utter_advisory
+  - utter_recruitment
+  - utter_info_major
+  - utter_thanks
+  - utter_complain
+  - utter_bye_bye
+  - utter_jobs
+  - utter_love_bot
+  - utter_request_meet_staff
+  - utter_request_info_user
+  - utter_ask_name
+  - utter_ask_phone_number
+  - utter_ask_birth
+  - utter_ask_school
+  - utter_slots_values
+  - utter_message_staff
+  - utter_after_complain
+  - utter_done
+  - action_required_staff
+forms:
+  - get_info_user_form
