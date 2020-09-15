@@ -1,1 +1,1 @@
-# this is chatbot devoloped by devil ducks team
+# this is chatbot developed by devil ducks team
