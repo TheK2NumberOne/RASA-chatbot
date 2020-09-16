@@ -4,7 +4,7 @@
   2. học phí
   3. địa điểm
   4. kí túc xá
-  5. cơ chếtuyển sinh
+  5. cơ chế tuyển sinh
   6. tiếng anh dự bị
   7. thông tin các chuyên ngành
   8. cơ hội việc làm
