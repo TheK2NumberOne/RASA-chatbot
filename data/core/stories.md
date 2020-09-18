@@ -472,6 +472,8 @@
    - utter_ask_func_bot
 * KTX
    - utter_KTX
+* profile
+   - action_for_profile
 * jobs
    - utter_jobs
 * thanks
@@ -520,6 +522,8 @@
    - action_major
 * tuition
    - utter_tuition
+* profile
+   - action_for_profile
 * thanks
    - utter_thanks
 
@@ -536,6 +540,8 @@
    - utter_jobs
 * location
    - utter_location
+* profile
+   - action_for_profile
 * english
    - action_english
 * KTX
@@ -825,6 +831,40 @@
 * info_major
    - action_major
 
+## New 1
+* profile
+   - action_for_profile
+* profile
+   - action_for_profile
+* profile
+   - action_for_profile
+
+## New 2
+* greeting
+   - utter_greet
+* profile
+   - action_for_profile
+* tuition
+   - utter_tuition
+* KTX
+   - utter_KTX
+* info_major
+   - action_major
+* jobs
+   - utter_jobs
+
+## New 3
+* profile
+   - action_for_profile
+* scholarship
+   - utter_scholarship
+* location
+   - utter_location
+* KTX
+   - utter_KTX
+* scholarship
+   - utter_scholarship
+   
 ## New Story 35
 * ask_func_bot
    - utter_ask_func_bot
@@ -873,6 +913,8 @@
    - utter_advisory
 * tuition
    - utter_tuition
+* profile
+   - action_for_profile
 * english
    - action_english
 * KTX
@@ -889,3 +931,145 @@
    - utter_love_bot
 * thanks
    - utter_thanks
+
+## New Story 37
+* greeting
+   - utter_greet
+* info_major
+   - action_major 
+* profile
+   - action_for_profile 
+* scholarship
+   - utter_scholarship 
+* transfer_university
+   - action_transfer_university 
+* location
+   - utter_location 
+* thanks
+   - utter_thanks 
+* KTX
+   - utter_KTX 
+* english
+   - action_english 
+* love_bot
+   - utter_love_bot 
+* advisory
+   - utter_advisory 
+* recruitment
+   - action_recruitment 
+* tuition
+   - utter_tuition 
+* ask_func_bot
+   - utter_ask_func_bot 
+* jobs
+   - utter_jobs
+
+## New Story 38
+* info_major
+   - action_major
+* location
+   - utter_location
+* english
+   - action_english
+* love_bot
+   - utter_love_bot
+* ask_func_bot
+   - utter_ask_func_bot
+* recruitment
+   - action_recruitment
+* transfer_university
+   - action_transfer_university
+* KTX
+   - utter_KTX
+* profile
+   - action_for_profile
+* greeting
+   - utter_greet
+* tuition
+   - utter_tuition
+* advisory
+   - utter_advisory
+* scholarship
+   - utter_scholarship
+* thanks
+   - utter_thanks  
+* jobs
+   - utter_jobs
+
+## New Story 39
+* location
+   - utter_location
+* tuition
+   - utter_tuition
+* scholarship
+   - utter_scholarship
+* transfer_university
+   - action_transfer_university
+* ask_func_bot
+   - utter_ask_func_bot
+* KTX
+   - utter_KTX
+* greeting
+   - utter_greet
+* info_major
+   - action_major
+* advisory
+   - utter_advisory
+* jobs
+   - utter_jobs 
+* recruitment
+   - action_recruitment
+* english
+   - action_english
+* profile
+   - action_for_profile
+* thanks
+   - utter_thanks
+* love_bot
+   - utter_love_bot
+
+## New Story 40
+* profile
+   - action_for_profile
+* KTX
+   - utter_KTX 
+* english
+   - action_english
+* jobs
+   - utter_jobs
+* tuition
+   - utter_tuition
+* thanks
+   - utter_thanks
+
+## New Story 41
+* profile
+   - action_for_profile
+* english
+   - action_english
+* info_major
+   - action_major
+* location
+   - utter_location
+* tuition
+   - utter_tuition
+* KTX
+   - utter_KTX
+* thanks
+   - utter_thanks
+
+## New Story 42
+* greeting
+   - utter_greet
+* info_major
+   - action_major
+* location
+   - utter_location
+* profile
+   - action_for_profile
+* KTX
+   - utter_KTX
+* jobs
+   - utter_jobs
+* scholarship
+   - utter_scholarship

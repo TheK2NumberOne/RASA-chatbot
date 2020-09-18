@@ -16,6 +16,8 @@ intents:
 - recruitment:
     triggers: action_recruitment
 - bye_bye
+- profile:
+    triggers: action_for_profile
 - jobs
 - scholarship
 - love_bot
@@ -47,6 +49,7 @@ entities:
 - format
 - entity_eng
 - entity eng
+- entity_pro
 slots:
   birth:
     type: unfeaturized
@@ -62,8 +65,13 @@ slots:
     auto_fill: false
 responses:
   utter_greet:
-  - text: xin chào rất vui khi được gặp bạn, mình có thể giúp gì cho bạn.
-  - text: xin chào, mình là bot acula mình có thể giúp gì được cho bạn ạ!!!
+  - image: https://i.imgur.com/pEl20wp.gif
+    text: Xin chào rất vui khi được gặp bạn, mình có thể giúp gì cho bạn.|greeting
+  - image: https://i.imgur.com/pEl20wp.gif
+    text: Xin chào, mình tên là Duck_Bot mình có thể giúp gì được cho bạn ạ!!!|greeting
+  - image: https://i.imgur.com/pEl20wp.gif
+    text: Xin chào, mình là chatbot tuyển sinh Duck_Bot mình có thể giải đáp được
+      gì cho bạn!!|greeting
   utter_location:
   - text: "Hiện tại đại học FPT có 4 cơ sở tại các địa chỉ như sau:\n- tại Hà nội\n\
       Đại học FPT Hà Nội tọa lạc tại Khu Công nghệ cao Hòa Lạc, Km29 Đại lộ Thăng\
@@ -72,43 +80,51 @@ responses:
       - tại Đà nẵng\nĐại học FPT Đà Nẵng hiện đặt tại 137 Nguyễn Thị Thập, Quận Liên\
       \ Chiểu. Dự kiến, Trường sẽ được xây dựng tại Khu đô thị công nghệ FPT.\n- tại\
       \ Cần thơ\n Tại 600, đường Nguyễn Văn Cừ (nối dài), phường An Bình, quận Ninh\
-      \ Kiều, TP. Cần Thơ\n"
+      \ Kiều, TP. Cần Thơ\n|location"
   utter_tuition:
   - text: Học phí chuyên ngành CNTT, Kinh tế, Ngôn ngữ... sẽ là 17,710,000 VNĐ/học
       kỳ, nộp vào đầu mỗi học kỳ. Sinh viên chuyên ngành du lịch, khách sạn nhập học
-      năm 2020 được ưu đãi 30% học phí cho cả khoá học.
+      năm 2020 được ưu đãi 30% học phí cho cả khoá học.|tuition
   utter_ask_func_bot:
-  - text: mình làm được rất nhiều việc như giải đáp thắc mắc tuyển sinh, học bổng,
-      tiếng anh.
+  - text: Mình làm được rất nhiều việc như giải đáp thắc mắc tuyển sinh, học bổng,
+      tiếng anh.|ask_func_bot
   utter_advisory:
-  - text: bạn cần mình giải đáp gì nào, mình sẵn sàng giải đáp cho bạn!!
-  - text: Dạ, bạn có thể hỏi mình bất kỳ câu hỏi nào liên quan tới tuyển sinh ạ!!
+  - text: Bạn cần mình giải đáp gì nào, mình sẵn sàng giải đáp cho bạn!!|advisory
+  - text: Dạ, bạn có thể hỏi mình bất kỳ câu hỏi nào liên quan tới tuyển sinh ạ!!|advisory
   utter_recruitment:
   - text: "Hiện tại FPT đang có 4 hình thức tuyển sinh gồm:\n- tuyển sinh học bạ\n\
       - tuyển sinh THPT\n- tuyển thẳng\n- tuyển ưu tiên.\nBạn muốn hỏi về hình thức\
-      \ tuyển sinh nào?"
+      \ tuyển sinh nào?|recruitment"
   utter_info_major:
   - image: https://i.imgur.com/SN0xNJL.png
-    text: 'Hiện tại trường đang đào tạo các chuyên ngành như sau, bạn có thể hỏi mình
-      ạ:'
+    text: Hiện tại trường đang đào tạo các chuyên ngành như sau, bạn có thể hỏi mình
+      ạ.|info_major
   utter_thanks:
-  - text: Dạ, cám ơn bạn nhiều ạ 😍
-  - text: Cám ơn bạn nhé. 😍
+  - text: Dạ, cám ơn bạn nhiều ạ 😍|thanks
+  - text: Cám ơn bạn nhé. 😍|thanks
   utter_complain:
-  - text: Mình rất xin lỗi bạn. Mình sẽ cố gắng hoàn thiện trong thời gian sắp tới
-      😢
-  - text: Dạ mình xin lỗi bạn mình sẽ cố hoàn thiện hơn ạ. 😢
+  - image: https://i.imgur.com/DDkae9j.gif
+    text: Mình rất xin lỗi bạn. Mình sẽ cố gắng hoàn thiện trong thời gian sắp tới.😢|complain
+  - image: https://i.imgur.com/DDkae9j.gif
+    text: Dạ mình xin lỗi bạn mình sẽ cố hoàn thiện hơn ạ. 😢|complain
   utter_after_complain:
   - text: Bạn có muốn gặp trực tiếp tư vấn viên không ạ?
   utter_bye_bye:
-  - text: Dạ. chào bạn và hẹn gặp lại bạn nhé 😄
-  - text: Hẹn gặp lại bạn nhé. Chúc bạn một ngày tốt lành!! 😄
+  - image: https://i.imgur.com/gbn4Gkk.gif
+    text: Dạ. chào bạn và hẹn gặp lại bạn nhé 😄|bye_bye
+  - image: https://i.imgur.com/gbn4Gkk.gif
+    text: Hẹn gặp lại bạn nhé. Chúc bạn một ngày tốt lành!! 😄|bye_bye
+  - image: https://i.imgur.com/gbn4Gkk.gif
+    text: Bờ ai bai. Rất vui được hỗ trợ bạn ạaaaa😍|bye_bye
+  utter_profile:
+  - text: "Bạn muốn tìm hiểu về:\n1. Hồ sơ nhập học\n2. Hồ sơ tuyển sinh??\n|profile"
   utter_scholarship:
   - text: "- Số lượng học bổng (dự kiến): 800 suất\n- Các mức học bổng sẽ là: 100%+,\
       \ 100%, 70%, 50% và 30%\n- Để dành được học bổng có 2 tiêu chí:\n1. Cấp thẳng\
       \ học bổng.\n2. Dựa vào kết quả kì thi giành học bổng.\n- Cấu trúc bài thi học\
       \ bổng gồm 2 phần:\nBài thi 1: Tư duy logic, 90 câu.\nBài thi 2: Nghị luận xã\
-      \ hội.\n- Để biết chi tiết hơn bạn hãy vào link này nhé: https://daihoc.fpt.edu.vn/tuyen-sinh/hoc-bong-tin-dung/\n"
+      \ hội.\n- Để biết chi tiết hơn bạn hãy vào link này nhé: https://daihoc.fpt.edu.vn/tuyen-sinh/hoc-bong-tin-dung/\
+      \ \n|scholarship"
   utter_jobs:
   - text: Mục tiêu của ĐH FPT là 100% sinh viên ra trường có việc làm và không chỉ
       ở Việt Nam. Điều đó được đảm bảo bằng uy tín của Trường và Tập đoàn FPT. Mức
@@ -116,7 +132,7 @@ responses:
       điểm tối thiểu của sinh viên khi ra trường sẽ từ 300-500 USD. Đa cố sinh viên
       trường Đại học FPT sau khi tốt nghiệp không phải chịu cảnh mòn mỏi đi tìm việc
       như bạn bè cùng trang lứa. Có tới 96% sinh viên có việc làm ngay với mức lươg
-      khởi điểm trung bình là 8,3 triệu đồng/tháng.
+      khởi điểm trung bình là 8,3 triệu đồng/tháng.|jobs
   utter_KTX:
   - text: "KÍ TÚC XÁ DÀNH CHO CÁC BẠN SINH VIÊN FPT\nKí túc xá phía Tây - cách trường\
       \ 7-8p chạy xe, với nhiều tiện ích:\n- Nhà ăn, điểm tâm\n- Siêu thị mini tiện\
@@ -127,12 +143,15 @@ responses:
       \ theo tình hình sử dụng thực tế.\n- Phòng ít người (phòng như phòng tiêu chuẩn\
       \ nhưng số lượng người ở bằng một nửa): 1.500.000 đồng/chỗ/tháng.\n- Trường\
       \ hợp số lượng đăng ký vượt quá 120 suất, Nhà trường sẽ ưu tiên cho các bạn\
-      \ đăng ký nhập học sớm theo thứ tự thời gian.\n"
+      \ đăng ký nhập học sớm theo thứ tự thời gian.\n|KTX"
   utter_love_bot:
-  - text: cám ơn bạn, nhưng yêu đương là dở rồi!!!
+  - image: https://i.imgur.com/PWGOwKA.gif
+    text: Cám ơn bạn, nhưng yêu đương là hỏng rồi!!!|love_bot
+  - image: https://i.imgur.com/IE47yHW.gif
+    text: Hihi mình cũng yêu bạn nhiều lắm 😍|love_bot
   utter_request_meet_staff:
   - text: Nếu bạn muốn gặp tư vấn viên thì bạn muốn nhắn tin trực tiếp tại đây hay
-      bạn muốn tư vấn viên gọi điện liên hệ với bạn ạ??
+      bạn muốn tư vấn viên gọi điện liên hệ với bạn ạ??|request_meet_staff
   utter_request_info_user:
   - text: Dạ, vậy bạn cho mình xin vài thông tin từ bạn để tư vấn viên dễ dàng liên
       lạc với bạn hơn nhé.
@@ -152,9 +171,9 @@ responses:
   - text: "Đây là thông tin bạn đã cũng câp cho mình ạ.\nHọ và Tên: {name}\nNgày sinh:\
       \ {birth}\nSố điện thoại: {phone_number}\nTrường học: {school}\n"
   utter_done:
-  - text: thông tin đã được lưu lại. Cám ơn bạn nhé!!
+  - text: Thông tin đã được lưu lại. Cám ơn bạn nhé!!
   utter_fallback:
-  - text: "xin lỗi bạn nhé mình không hiểu\nBạn nói lại xem nào!!!"
+  - text: "Xin lỗi bạn nhé mình không hiểu\nBạn nói lại xem nào!!!|fallback"
   utter_ask_continue:
   - text: Bạn có muốn tiếp tục điền form?
 actions:
@@ -189,5 +208,6 @@ actions:
 - action_english
 - action_recruitment
 - action_transfer_university
+- action_for_profile
 forms:
 - get_info_user_form

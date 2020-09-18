@@ -107,7 +107,7 @@ class major(Action):
             dispatcher.utter_message(template = "utter_info_major")
         elif major_name in major_list and intent_major_name == "info_major":
             dispatcher.utter_message(
-            "bạn có thể xem chi tiết chuyên ngành {0} tại đây: https://drive.google.com/file/d/1xtSW2DEYP4xYzWjmuxKsnaym_bhneCOz/view?usp=sharing".format(major_name))
+            "Bạn có thể xem chi tiết chuyên ngành {0} tại đây|major: https://drive.google.com/file/d/1xtSW2DEYP4xYzWjmuxKsnaym_bhneCOz/view?usp=sharing".format(major_name))
         #nếu bắt được entites chuyên ngành trong list chuyên ngành thì sẽ trả về thông tin là image
         return []
 
@@ -123,21 +123,21 @@ class english(Action):
             entity_eng = entity_eng.lower()
         if english_intent == "english" and entity_eng == "bắt buộc":
             dispatcher.utter_message(
-            text = "chương trình tiếng anh là bắt buộc(trong trường hợp bạn không có chứng chỉ tiếng anh IELTS hoặc TOFLE)\
+            text = "Chương trình tiếng anh là bắt buộc(trong trường hợp bạn không có chứng chỉ tiếng anh IELTS hoặc TOFLE)\
              trước khi vào học chuyên ngành và bao gồm 6 mức, thời lượng học mỗi mức là 2 tháng.\
              Bạn sẽ thi xếp lớp tiếng Anh để xem mình cần bắt đầu theo học lớp nào là phù hợp nhất.\
-             Tuỳ theo kết quả xếp lớp mà thời gian học tiếng Anh của bạn sẽ kéo dài từ 2 tháng đến một năm.")
+             Tuỳ theo kết quả xếp lớp mà thời gian học tiếng Anh của bạn sẽ kéo dài từ 2 tháng đến một năm.|english")
         elif english_intent == "english" and entity_eng in certificate_list:
             dispatcher.utter_message(
                 text = "Mục đích của Chương trình tiếng Anh dự bị là trang bị kỹ năng tiếng Anh cho sinh viên đủ trình độ để theo học học kỳ chuyên ngành.\
                  Nếu bạn có chứng chỉ IELTS (Học thuật) từ 6.0 và TOEFL iBT từ 80 hoặc quy đổi tương đương còn hiệu lực tính đến thời điểm nhập học,\
                   bạn sẽ được miễn tham gia chương trình tiếng Anh dự bị và vào thẳng học kỳ chuyên ngành ngay từ năm đầu tiên. Như vậy,\
-                 bạn sẽ sớm tốt nghiệp và đi làm.")
+                 bạn sẽ sớm tốt nghiệp và đi làm.|english")
         else:
             dispatcher.utter_message(
                 text = "Trước khi vào học chuyên ngành tất cả sinh viên cần phải có kiến thức về tiếng anh,\
                      trong trường hợp mất gốc hoặc yếu kém, tất cả sinh viên sẽ được đào tạo tiếng anh.\
-                     cấu trúc bài thi tiếng anh bao gồm 3 phần.")
+                     cấu trúc bài thi tiếng anh bao gồm 3 phần.|english")
         return []
 
 class recruitment(Action):
@@ -156,7 +156,7 @@ class recruitment(Action):
                         Tổng điểm 3 môn (mỗi môn tính trung bình hai học kỳ cuối THPT) đạt 21 điểm* trở lên (áp dụng cho sinh viên nhập học tại Hà Nội và Tp. Hồ Chí Minh),\
                          đạt 19.5 điểm* trở lên (áp dụng cho sinh viên nhập học tại Tp.Cần Thơ và Tp.Đà Nẵng) xét theo tổ hợp môn tương ứng với ngành đăng ký học tại Trường ĐH FPT.\n\
                         + Đối với thí sinh tốt nghiệp THPT năm 2020 (nộp hồ sơ xét tuyển từ ngày 01/04/2020):\n\
-                        Đạt xếp hạng theo học bạ THPT năm 2020 thuộc Top50 THPT 2020 (chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn).\n")
+                        Đạt xếp hạng theo học bạ THPT năm 2020 thuộc Top50 THPT 2020 (chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn).\n|recruitment")
 
         elif intent_recruitment == "recruitment" and format_recruitment == "tuyển thpt" or format_recruitment == "thi thpt" or format_recruitment == "thptqg":
             dispatcher.utter_message(
@@ -165,7 +165,7 @@ class recruitment(Action):
                         Điểm theo khối xét tuyển đạt từ trung bình trở lên (15**/30 điểm).\n\
                         + Điều kiện xét tuyển\n\
                         Thí sinh cần đạt xếp hạng theo điểm thi THPT năm 2020 thuộc Top50 THPT 2020\
-                         (chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn theo số liệu Đại học FPT tổng hợp và công bố sau kỳ thi THPT 2020)\n")
+                         (chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn theo số liệu Đại học FPT tổng hợp và công bố sau kỳ thi THPT 2020)\n|recruitment")
 
         elif intent_recruitment == "recruitment" and format_recruitment == "ưu tiên":
             dispatcher.utter_message(
@@ -178,18 +178,18 @@ class recruitment(Action):
                         5.Tốt nghiệp Chương trình APTECH HDSE (áp dụng đối với ngành Công nghệ thông tin)\n\
                         6.Tốt nghiệp Chương trình ARENA ADIM (áp dụng đối với chuyên ngành Thiết kế Mỹ thuật số)\n\
                         7.Tốt nghiệp Đại học.\n\
-                        8.Sinh viên chuyển trường từ các trường đại học thuộc Top 1000 trong 3 bảng xếp hạng gần nhất: QS, ARWU và THE hoặc các trường đạt chứng nhận QS Star 5 sao về chất lượng đào tạo.\n")
+                        8.Sinh viên chuyển trường từ các trường đại học thuộc Top 1000 trong 3 bảng xếp hạng gần nhất: QS, ARWU và THE hoặc các trường đạt chứng nhận QS Star 5 sao về chất lượng đào tạo.\n|recruitment")
         
         elif intent_recruitment == "recruitment" and format_recruitment == "tuyển thẳng":
             dispatcher.utter_message(
                 text = "- Xét tuyển thẳng:\n\
-                        Xét tuyển thẳng thí sinh thuộc diện được xét tuyển thẳng tại mục 2, Điều 7 trong Quy chế tuyển sinh Đại học, Cao đẳng hệ đại học chính quy của Bộ GD&ĐT năm 2020.\n")
+                        Xét tuyển thẳng thí sinh thuộc diện được xét tuyển thẳng tại mục 2, Điều 7 trong Quy chế tuyển sinh Đại học, Cao đẳng hệ đại học chính quy của Bộ GD&ĐT năm 2020.\n|recruitment")
             dispatcher.utter_message(
                 text = "Bạn có thể tham khảo tại: https://bom.to/4Sv72xf")
 
         elif intent_recruitment == "recruitment" and format_recruitment == "tổ hợp" or format_recruitment == "khối":
             dispatcher.utter_message(
-                text = "- Các tổ hợp môn xét tuyển:",
+                text = "- Các tổ hợp môn xét tuyển:|recruitment",
                 image = "https://i.imgur.com/yQw1Xys.png")
         else:
             dispatcher.utter_message(
@@ -205,10 +205,38 @@ class transfer_university(Action):
             dispatcher.utter_message(
                 text = "Sinh viên FPT Polytechnic được phép liên thông lên trình độ Đại học\
                      hệ chính quy của Trường Đại học FPT và các trường Đại học có tuyển liên thông tại ba chuyên ngành:\
-                          Quản trị kinh doanh, Tài chính – Ngân hàng, Kỹ thuật phần mềm.\n")
+                          Quản trị kinh doanh, Tài chính – Ngân hàng, Kỹ thuật phần mềm.\n|transfer_university")
             dispatcher.utter_message(
                 text = "Bạn có thể xem chi tiết về liên thông tại đây ạ: https://bom.to/DNYfUGe")
 
-
-        
-        
+class profile(Action):
+    def name(self) -> Text:
+        return "action_for_profile"
+    
+    def run(self, dispatcher, tracker, domain):
+        intent_profile = str(tracker.latest_message['intent'].get('name'))
+        entity_profile = str(next(tracker.get_latest_entity_values("entity_pro"), None))
+        if entity_profile != None:
+            entity_profile = entity_profile.lower()
+        if intent_profile == "profile" and entity_profile == "đơn nhập học" or entity_profile == "hồ sơ nhập học" or entity_profile == "giấy nhập học" or entity_profile == "giấy tờ nhập học" or entity_profile == "nhập học":
+            dispatcher.utter_message(
+                text = "Thí sinh đủ điều kiện xét tuyển của ĐH FPT có thể nộp hồ sơ đăng ký xét tuyển về trường.\n\
+                        1. Hồ sơ xét tuyển:\n\
+                            - [Phiếu đăng ký ĐH FPT](https://bom.to/Muj5VrE);\n\
+                            - 01 bản photo hoặc bản scan CMND;\n\
+                            - Lệ phí xét tuyển 100,000 VNĐ;\n\
+                            - 01 bản photo/bản scan Học bạ THPT (đối với hồ sơ xét tuyển theo kết quả Học bạ THPT)\
+                                 hoặc 01 bản chính Giấy chứng nhận kết quả thi THPT 2020 (đối với hồ sơ xét tuyển theo kết quả thi THPT 2020);\n\
+                            - 01 Giấy chứng nhận xếp hạng học sinh THPT năm 2020 theo kết quả học bạ THPT trên trang http://schoolrank.fpt.edu.vn/ \
+                                (áp dụng đối với các thí sinh tốt nghiệp THPT năm 2020 và nộp hồ sơ xét tuyển theo xếp hạng học bạ THPT 2020 từ ngày 01/04/2020);\n\
+                            - 01 Giấy chứng nhận xếp hạng học sinh THPT năm 2020 theo kết quả thi THPT trên trang http://schoolrank.fpt.edu.vn/ \
+                                (áp dụng đối với các thí sinh thi THPT năm 2020 và nộp hồ sơ xét tuyển theo xếp hạng điểm thi THPT 2020).\n\
+                            - 01 bản photo/scan các giấy tờ chứng nhận điều kiện xét tuyển khác (nếu có).\n\
+                        2. Lịch trình xét tuyển:\n\
+                            - Được công bố trong các thông báo tuyển sinh theo từng đợt. Dự kiến trong năm có 3 đợt. Đợt 1 vào ngày 28/6/2020.\n|profile")
+        elif intent_profile == "profile" and entity_profile == "hồ sơ xét tuyển" or entity_profile == "giấy xét tuyển" or entity_profile == "đơn xét tuyển" or entity_profile == "giấy tờ xét tuyển" or entity_profile == "xét tuyển":
+            dispatcher.utter_message(
+                text = "Để biết rõ thông tin chi tiết về hồ sơ nhập học bạn có thể vào đây ạ: https://daihoc.fpt.edu.vn/tuyen-sinh/ho-nhap-hoc/|profile")
+        else:
+            dispatcher.utter_message(
+                template = "utter_profile")

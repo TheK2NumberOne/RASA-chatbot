@@ -58,6 +58,8 @@
 - được rồi tao cũng đang có vài thắc mắc
 
 ## intent:tuition
+- học phí
+- học phí của FPT
 - học phí của ngành này thì ra sao
 - ngành này học phí thế nào vậy bạn
 - ngoài học phí còn cần đóng những khoản tiền gì nữa không ạ?
@@ -134,6 +136,8 @@
 - trường đại học FPT đang nằm ở những đâu vậy?
 
 ## intent:english
+- tiếng anh dự bị
+- tiếng anh
 - nếu có [chứng chỉ](entity_eng) tiếng anh thì có ưu tiên gì không ạ?
 - chưa có [chứng chỉ](entity_eng) thì phải học cả 6 mức tiếng anh đúng không ạ?
 - Cho em hỏi học tiếng Anh phải học cả 6 mức ạ nếu chưa có [chứng chỉ](entity_eng) đúng không
@@ -357,6 +361,8 @@
 - này
 
 ## intent:recruitment
+- cơ chế tuyển sinh
+- cơ chế tuyển sinh của trường học
 - tuyển sinh 2020 như thế nào vậy?
 - muốn xét [học bạ](format) thì trường xét như thế nào?
 - hình thức tuyển sinh của FPT như thế nào vậy?
@@ -466,6 +472,8 @@
 - nhà trường còn xét tuyển [học bạ](format) không ạ
 
 ## intent:info_major
+- thông tin chuyên ngành
+- thông tin của các chuyên ngành
 - em cần tư vấn ngành [hệ thống thông tin](major) và [kĩ thuật phần mềm](major) ạ.
 - cho em hỏi là ngành [kỹ thuật phần mềm](major) được học những gì vậy?
 - em muốn tìm hiểu rõ về ngành [ngôn ngữ anh](major) ạ
@@ -1200,3 +1208,49 @@
 - liên thông lên đại học có cần thi không ạ
 - bài thi liên thông thì dạng như thế nào ạ
 - cho em hỏi cấu trúc bài thi liên thông ạ
+
+## intent:profile
+- thế còn [giấy tờ xét tuyển](entity_pro) thì sao ạ.
+- [giấy tờ xét tuyển](entity_pro)
+- hiện tại là em đang muốn làm [giấy tờ xét tuyển](entity_pro) thì cần những gì ạ?
+- các loại giấy tờ hồ sơ cho việc đăng ký [xét tuyển](entity_pro) là gì?
+- cho em biết những loại [giấy tờ nhập học](entity_pro) gồm những gì thế ạ?
+- bây giờ em đang không biết làm giấy tờ để cho việc [nhập học](entity_pro) gồm những gì ạ?
+- giấy tờ cho việc [nhập học](entity_pro)
+- giấy tờ cho việc [xét tuyển](entity_pro)
+- giấy tờ cho [nhập học](entity_pro) ạ
+- giấy tờ cho việc [xét tuyển](entity_pro) ạ
+- để [nhập học](entity_pro) được thì cần những loại giấy tờ gì ạ?
+- chị ơi em muốn làm [giấy nhập học](entity_pro)
+- em muốn làm [hồ sơ nhập học](entity_pro) ạ
+- giấy tờ hồ sơ
+- hồ sơ
+- ad có thể hướng dẫn em làm [hồ sơ nhập học](entity_pro) không ạ
+- em muốn làm [hồ sơ xét tuyển](entity_pro) mà không biết cần những gì ạ
+- cho em hỏi [hồ sơ nhập học](entity_pro) thì cần những gì ạ
+- [giấy nhập học](entity_pro)
+- [giấy xét tuyển](entity_pro)
+- [hồ sơ nhập học](entity_pro)
+- [hồ sơ xét tuyển](entity_pro)
+- mình muốn biết [hồ sơ xét tuyển](entity_pro)
+- là [giấy nhập học](entity_pro)
+- giờ em muốn làm [giấy xét tuyển](entity_pro) thì cần những loại giấy tờ gì ạ
+- cho em hỏi cách thức nộp hồ sơ ạ
+- anh chị có thể hướng dẫn em làm [hồ sơ xét tuyển](entity_pro) không ạ
+- cho em hỏi cách nộp [hồ sơ xét tuyển](entity_pro) như thế nào ạ
+- mày có thể hướng dẫn tao làm hồ sơ không
+- cho em hỏi hồ sơ gồm những gì ạ?
+- tôi muốn hỏi là [hồ sơ xét tuyển](entity_pro) học bạ gồm những giấy tờ gì ạ?
+- bạn ơi cho mình hỏi cái [giấy nhập học](entity_pro) nó cần những loại giấy tờ gì vậy?
+- Em muốn nộp [đơn xét tuyển](entity_pro) thì cần những gì ạ?
+- bây giờ mà muốn nộp [đơn nhập học](entity_pro) thì phải nộp những gì thế?
+- nộp hồ sơ để [đăng ký xét tuyển](entity_pro) ở đâu vậy ạ?
+- em muốn nộp [hồ sơ xét tuyển](entity_pro) online thì làm như thế nào ạ
+- cho em hỏi nộp [hồ sơ xét tuyển](entity_pro) học bạ online như thế nào ạ
+- cho em hỏi mình nộp [hồ sơ xét tuyển](entity_pro) học bạ như thế nào vậy ạ
+- [đơn xét tuyển](entity_pro)
+- [đơn nhập học](entity_pro)
+- Làm [hồ sơ nhập học](entity_pro) cần chuẩn bị những gì vậy?
+- cho tôi hỏi về [hồ sơ xét tuyển](entity_pro)
+- ý của tôi là [đơn nhập học](entity_pro)
+- tìm hiểu về [hồ sơ nhập học](entity_pro)
